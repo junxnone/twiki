@@ -9,4 +9,5 @@
   - [Term 6](/t6)
 - [About](/about)
 - [Test](/Test_Issues_2_Wiki_md)
-- [update log](/update_log)
+- [Todo](./todo)
+- [Update Logs](/update_log)
