@@ -1,8 +1,8 @@
-# template-wiki
+# Template wiki
 
 This is a Wiki template update from Issues 
 
-[Demo is here](https://junxnone.github.io/template-wiki/#/)
+[Demo is here](https://junxnone.github.io/twiki/)
 
 - Issues will be update to `docs/issue_name.md`, when the issue be `opened/edited/labeled`
 - Issues2md github action is [here](https://github.com/junxnone/wiki_issue2md)
