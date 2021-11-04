@@ -1,6 +1,6 @@
 # Template wiki
 
-This is a Wiki template update from Issues 
+This is a template of Wiki sync markdown docs from Issues 
 
 [Demo is here](https://junxnone.github.io/twiki/)
 
