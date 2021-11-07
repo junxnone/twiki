@@ -85,15 +85,7 @@
             }
         }
   }
-  const gitalk = new Gitalk({
-  clientID: '91b46a4472ca8bff4fe6',
-  clientSecret: '4f97a59f21b6fc23798d6c3f2e0997fa61845e9d',
-  repo: 'gitalk_comment',
-  owner: 'junxnone',
-  admin: ['junxnone'],
-  // facebook-like distraction free mode
-  distractionFreeMode: false
-  })
+
   
   </script>
   <script src="assets/docsify.min.js"></script>
@@ -106,4 +98,18 @@
   <script src="assets/wikilink.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+  
+  <script>
+  
+  const gitalk = new Gitalk({
+    clientID: '91b46a4472ca8bff4fe6',
+    clientSecret: '4f97a59f21b6fc23798d6c3f2e0997fa61845e9d',
+    repo: 'gitalk_comment',
+    owner: 'junxnone',
+    admin: ['junxnone'],
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+  
+  </script>
 </html>
