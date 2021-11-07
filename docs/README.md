@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-09-19T14:31:27Z`
-Update Date | `2021-11-07T06:56:26Z`
+Update Date | `2021-11-07T09:52:39Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -27,5 +27,5 @@ This is a [Template] Wiki.
   - Create new issue with you content
   - update the index in **_sidebar** issue
   - goto your wiki to verify the update
-
+- 5 for gitalk setting, please refer the [gitalk](https://github.com/gitalk/gitalk) and [docsify gitalk](https://docsify.js.org/#/plugins?id=gitalk)
 
