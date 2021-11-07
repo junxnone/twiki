@@ -2,8 +2,8 @@
 Title | README
 -- | --
 Create Date | `2021-09-19T14:31:27Z`
-Update Date | `2021-09-23T07:03:16Z`
-Edit link | [here](https://github.com/junxnone/template-wiki/issues/5)
+Update Date | `2021-11-07T06:55:59Z`
+Edit link | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
@@ -15,13 +15,13 @@ This is a [Template] Wiki.
 
 ----
 
-[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/template-wiki/issues/new)
+[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/twiki/issues/new)
 
 
 ## Steps
 
 - 1 Clone the [issue2md github action repo](https://github.com/junxnone/wiki_issue2md)
-- 2 Clone the [template-wiki repo](https://github.com/junxnone/template-wiki)
+- 2 Clone the [Template wiki repo](https://github.com/junxnone/twiki)
 - 3 Create the first issue **_sidebar** for the wiki sidebar
 - 4 Steps to create new docs
   - Create new issue with you content
