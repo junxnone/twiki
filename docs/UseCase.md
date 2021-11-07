@@ -2,7 +2,7 @@
 Title | UseCase
 -- | --
 Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2021-11-07T06:48:49Z`
+Update Date | `2021-11-07T06:50:58Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
@@ -12,5 +12,5 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ## include another doc
 
-[update](update_log ':include')
+[update](update_log.md ':include')
 
