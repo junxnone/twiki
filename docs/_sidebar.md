@@ -7,6 +7,7 @@
 - Terms
   - [Term 5](/t5)
   - [Term 6](/t6)
+- [UseCase](/UseCase)
 - [About](/about)
 - [Test](/Test_Issues_2_Wiki_md)
 - [Todo](./todo)
