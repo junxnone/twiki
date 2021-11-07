@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-09-19T14:31:27Z`
-Update Date | `2021-11-07T06:55:59Z`
+Update Date | `2021-11-07T06:56:26Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -21,7 +21,7 @@ This is a [Template] Wiki.
 ## Steps
 
 - 1 Clone the [issue2md github action repo](https://github.com/junxnone/wiki_issue2md)
-- 2 Clone the [Template wiki repo](https://github.com/junxnone/twiki)
+- 2 Using the [Template wiki repo](https://github.com/junxnone/twiki)
 - 3 Create the first issue **_sidebar** for the wiki sidebar
 - 4 Steps to create new docs
   - Create new issue with you content
