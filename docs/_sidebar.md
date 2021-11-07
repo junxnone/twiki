@@ -1,14 +1,14 @@
 - [Introduction]()
-  - [Term 1](/t1)
-  - [Term 2](/t2)
-- Arch
-  - [Term 3](/t3)
-  - [Term 4](/t4)
-- Terms
-  - [Term 5](/t5)
-  - [Term 6](/t6)
 - [UseCase](/UseCase)
 - [About](/about)
 - [Test](/Test_Issues_2_Wiki_md)
 - [Todo](./todo)
 - [Update Logs](/update_log)
+- Collapse demo
+  - [Term 1](/t1)
+    - [Term 2](/t2)
+    - [Term 3](/t3)
+  - [Term 4](/t4)
+    - [Term 5](/t5)
+    - [Term 6](/t6)
+
