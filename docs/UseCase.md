@@ -2,7 +2,7 @@
 Title | UseCase
 -- | --
 Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2021-11-07T07:35:45Z`
+Update Date | `2021-11-07T07:55:37Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
@@ -42,8 +42,8 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 ## include web
 
 ```
-[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=100%')
+[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
 ```
 
-[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=100%')
+[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
 
