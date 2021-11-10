@@ -1,7 +1,7 @@
 - [Introduction]()
 - [UseCase](/UseCase)
 - [About](/about)
-- [Test](/Test_Issues_2_Wiki_md)
+- [Test](/Test)
 - [Todo](./todo)
 - [Update Logs](/update_log)
 - Collapse demo
