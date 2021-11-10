@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-09-19T14:31:27Z`
-Update Date | `2021-11-07T09:52:39Z`
+Update Date | `2021-11-10T10:07:59Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -16,6 +16,8 @@ This is a [Template] Wiki.
 ----
 
 [![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](https://github.com/junxnone/twiki/issues/new)
+[![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/aiwiki/issues/2)
+
 
 
 ## Steps
