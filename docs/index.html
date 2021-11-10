@@ -98,7 +98,6 @@
   <script src="assets/wikilink.min.js"></script>
   <script src="assets/docsify.gitalk.min.js"></script>
   <script src="assets/gitalk.min.js"></script>
-  <div id="gitalk-container"></div>
   <script>
   
   const gitalk = new Gitalk({
@@ -109,7 +108,7 @@
     admin: ['junxnone'],
     id: location.href.split('/')[3] + '-' + location.href.split('/')[5],
     // facebook-like distraction free mode
-    distractionFreeMode: false
+    distractionFreeMode: true
   })
   window.onhashchange = function(event){
     if(event.newURL.split('?')[0] !== event.oldURL .split('?')[0]) {
