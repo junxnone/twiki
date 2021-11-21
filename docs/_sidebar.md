@@ -1,4 +1,5 @@
 - [Introduction]()
+- [Supported Features](/Supported_Features)
 - [UseCase](/UseCase)
 - [About](/about)
 - [Test](/Test)
