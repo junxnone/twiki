@@ -2,7 +2,7 @@
 Title | UseCase
 -- | --
 Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2021-11-07T09:05:25Z`
+Update Date | `2021-11-21T09:12:36Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
@@ -10,7 +10,11 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 [[todo]]
 
-## include another doc
+## Latex support
+
+$\texttt{accuracy}(y, \hat{y}) = \frac{1}{n_\text{samples}} \sum_{i=0}^{n_\text{samples}-1} 1(\hat{y}_i = y_i)$
+
+## include doc
 
 ```
 [update](update_log.md ':include')
