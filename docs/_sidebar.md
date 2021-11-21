@@ -1,5 +1,7 @@
 - [Introduction]()
 - [Supported Features](/Supported_Features)
+  - [Markdown Format](/Markdown_Format)
+  - [Latex Math Formula](/Latex_Math_Formula)
 - [UseCase](/UseCase)
 - [About](/about)
 - [Test](/Test)
