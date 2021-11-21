@@ -2,7 +2,7 @@
 - [Supported Features](/Supported_Features)
   - [Markdown Format](/Markdown_Format)
   - [Latex Math Formula](/Latex_Math_Formula)
-- [UseCase](/UseCase)
+  - [Include Content](/Include_Content)
 - [About](/about)
 - [Test](/Test)
   - [test the comment length valid error](/test_the_comment_length_valid_error)
