@@ -2,7 +2,7 @@
 Title | todo
 -- | --
 Create Date | `2021-09-19T11:31:00Z`
-Update Date | `2021-11-07T09:47:13Z`
+Update Date | `2021-11-21T09:10:31Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/4)
 
 ---
@@ -15,6 +15,7 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/4)
 
 
 - [ ] markdown content
+- [ ] katex plugin for latex support
 - [x] [Gitalk](https://github.com/gitalk/gitalk/blob/master/readme-cn.md)
 - [x] 增加 edit 链接
 - [x] Search Bar
