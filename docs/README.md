@@ -2,7 +2,7 @@
 Title | README
 -- | --
 Create Date | `2021-09-19T14:31:27Z`
-Update Date | `2021-12-11T08:01:46Z`
+Update Date | `2021-12-11T08:04:34Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -33,5 +33,5 @@ This is a [Template] Wiki.
 
 ---
 
-[Index](_siderbar.md ':include')
+[Index](/_siderbar.md ':include')
 
