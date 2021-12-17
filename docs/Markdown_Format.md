@@ -2,11 +2,11 @@
 Title | Markdown Format
 -- | --
 Create Date | `2021-11-21T09:19:32Z`
-Update Date | `2021-12-17T05:30:15Z`
+Update Date | `2021-12-17T05:30:29Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/17)
 
 ---
-## 索引
+## 引用文献
 提到的文献 [^papers_1]
 提到的文献 [^papers_2]
 提到的文献 [^papers_3]
