@@ -2,7 +2,7 @@
 Title | Include Content
 -- | --
 Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2021-11-21T09:22:26Z`
+Update Date | `2022-01-04T09:53:15Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
@@ -31,13 +31,14 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ## include gist
 
-
 ```
 [gist: hello_openmp](https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw/2d04dcd1fd3ac51988d3e756bb1be477efe02216/openmp_helloworld.cpp ':include :type=code')
 ```
+- 如果要使用 `gist` 的最新内容需要 把 `commit id` 移除 
 
+https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw/openmp_helloworld.cpp
 
-[gist: hello_openmp](https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw/2d04dcd1fd3ac51988d3e756bb1be477efe02216/openmp_helloworld.cpp ':include :type=code')
+[gist: hello_openmp](https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw/openmp_helloworld.cpp ':include :type=code')
 
 ## include web
 
