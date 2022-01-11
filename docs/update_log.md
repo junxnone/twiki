@@ -2,10 +2,11 @@
 Title | update log
 -- | --
 Create Date | `2021-08-31T09:37:04Z`
-Update Date | `2022-01-07T09:27:14Z`
+Update Date | `2022-01-11T10:08:54Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/3)
 
 ---
+-20220111 update sidebar text color ini light mode
 - 20220107 update dark mode color
   - index.html
   - docsify-plugin-toc.min.js
