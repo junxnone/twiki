@@ -2,20 +2,18 @@
 Title | todo
 -- | --
 Create Date | `2021-09-19T11:31:00Z`
-Update Date | `2021-11-21T09:10:31Z`
+Update Date | `2022-01-12T06:18:08Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/4)
 
 ---
-## Reference
-- [docsify](https://docsify.js.org/)
-
+[Supported Features](/Supported_Features)
 
 ## TODO
 
 
 
 - [ ] markdown content
-- [ ] katex plugin for latex support
+- [x] katex plugin for latex math support
 - [x] [Gitalk](https://github.com/gitalk/gitalk/blob/master/readme-cn.md)
 - [x] 增加 edit 链接
 - [x] Search Bar
