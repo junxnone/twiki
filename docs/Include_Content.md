@@ -2,7 +2,7 @@
 Title | Include Content
 -- | --
 Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2022-02-11T06:34:07Z`
+Update Date | `2022-02-11T06:37:30Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
@@ -16,8 +16,10 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/13)
 [update](update_log.md ':include')
 ```
 
-
+<details>
+<summary>This is included docs</summary>
 [update](update_log.md ':include')
+</details>
 
 ## Include code
 
