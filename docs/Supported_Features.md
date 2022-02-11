@@ -2,7 +2,7 @@
 Title | Supported Features
 -- | --
 Create Date | `2021-11-21T09:15:37Z`
-Update Date | `2022-02-11T06:22:06Z`
+Update Date | `2022-02-11T06:25:39Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/16)
 
 ---
@@ -17,9 +17,7 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/16)
 - [Gittalk Comment](https://github.com/gitalk/gitalk)
 - [Markdown Format](/Markdown_Format)
 - [Latex Math Formula](/Latex_Math_Formula)
-- [Include Content](/Include_Content)
+- [Include Content wiki/code/gist/web/pdf](/Include_Content)
 
 
-```pdf
-flann_docs.pdf
-```
+
