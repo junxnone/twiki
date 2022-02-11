@@ -2,7 +2,7 @@
 Title | Supported Features
 -- | --
 Create Date | `2021-11-21T09:15:37Z`
-Update Date | `2022-02-11T06:20:28Z`
+Update Date | `2022-02-11T06:22:06Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/16)
 
 ---
@@ -21,5 +21,5 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/16)
 
 
 ```pdf
-twiki/flann_docs.pdf
+flann_docs.pdf
 ```
