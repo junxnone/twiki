@@ -3,6 +3,7 @@
   - [Markdown Format](/Markdown_Format)
   - [Latex Math Formula](/Latex_Math_Formula)
   - [Include Content](/Include_Content)
+  - [Mermaid Support](/Mermaid_Support)
 - [About](/about)
 - [Todo](/todo)
 - [Update Logs](/update_log)
