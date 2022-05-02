@@ -2,12 +2,16 @@
 Title | Mermaid Support
 -- | --
 Create Date | `2022-05-02T12:51:31Z`
-Update Date | `2022-05-02T12:56:25Z`
+Update Date | `2022-05-02T12:57:30Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/20)
 
 ---
 - [mermaid-docsify](https://github.com/Leward/mermaid-docsify)
 - [Mermaid js](https://mermaid-js.github.io/mermaid/#/)
+- [mermaid-live-editor](https://mermaid-js.github.io/mermaid-live-editor)
+
+---
+
 ```
 gantt
     title Twiki History
