@@ -2,7 +2,7 @@
 Title | todo
 -- | --
 Create Date | `2021-09-19T11:31:00Z`
-Update Date | `2022-02-15T06:48:15Z`
+Update Date | `2022-05-02T12:54:36Z`
 Edit link | [here](https://github.com/junxnone/twiki/issues/4)
 
 ---
@@ -11,8 +11,8 @@ Edit link | [here](https://github.com/junxnone/twiki/issues/4)
 ## TODO
 
 
-- [ ] [mermaid](https://github.com/Leward/mermaid-docsify)
-- [ ] markdown content
+- [x] [mermaid](https://github.com/Leward/mermaid-docsify)
+- [x] markdown content
 - [x] katex plugin for latex math support
 - [x] [Gitalk](https://github.com/gitalk/gitalk/blob/master/readme-cn.md)
 - [x] 增加 edit 链接
