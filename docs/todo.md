@@ -1,16 +1,16 @@
 ---
 Title | todo
 -- | --
-Create Date | `2021-09-19T11:31:00Z`
-Update Date | `2022-05-02T12:54:36Z`
-Edit link | [here](https://github.com/junxnone/twiki/issues/4)
+Created @ | `2021-09-19T11:31:00Z`
+Last Modify @| `2022-11-01T09:24:49Z`
+Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ---
 [Supported Features](/Supported_Features)
 
 ## TODO
 
-
+- [x] NavBar
 - [x] [mermaid](https://github.com/Leward/mermaid-docsify)
 - [x] markdown content
 - [x] katex plugin for latex math support
