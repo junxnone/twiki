@@ -2,14 +2,14 @@
 Title | todo
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-11-01T09:24:49Z`
+Last Modify @| `2022-11-07T14:16:44Z`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ---
 [Supported Features](/Supported_Features)
 
 ## TODO
-
+- [x] prev/next page
 - [x] NavBar
 - [x] [mermaid](https://github.com/Leward/mermaid-docsify)
 - [x] markdown content
