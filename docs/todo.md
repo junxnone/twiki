@@ -1,12 +1,3 @@
----
-Title | todo
--- | --
-Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-11-08T09:15:23Z`
-Labels | `documentation, enhancement`
-Edit @| [here](https://github.com/junxnone/twiki/issues/4)
-
----
 [Supported Features](/Supported_Features)
 
 ## TODO
@@ -14,6 +5,7 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 - [ ] 自动生成索引
 - [ ] 文档存储位置
 - [ ] 易用性问题, [`use this template` --> `最小修改`]
+- [x] `nohead` label 不创建文件头
 - [x] Labels
 - [x] Edit Button link 问题
 - [x] prev/next page
