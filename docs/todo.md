@@ -2,7 +2,7 @@
 Title | todo
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-11-08T09:05:37Z`
+Last Modify @| `2022-11-08T09:15:23Z`
 Labels | `documentation, enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
@@ -11,11 +11,11 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ## TODO
 
-- [ ] Labels
 - [ ] 自动生成索引
 - [ ] 文档存储位置
 - [ ] 易用性问题, [`use this template` --> `最小修改`]
-- [ ] Edit Button link 问题
+- [x] Labels
+- [x] Edit Button link 问题
 - [x] prev/next page
 - [x] NavBar
 - [x] [mermaid](https://github.com/Leward/mermaid-docsify)
