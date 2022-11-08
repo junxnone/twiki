@@ -1,6 +1,6 @@
 #prev-page-button {
 	position:fixed;
-	top:140px;
+	bottom:140px;
 	width: 35px;
 	height: 35px;
 	right: 15px;
@@ -19,7 +19,7 @@
 
 #next-page-button {
 	position:fixed;
-	top:180px;
+	bottom:180px;
 	width:35px;
 	height:35px;
 	right:15px;
