@@ -10,5 +10,5 @@ This is a [Template] Wiki.
 
 [Index](_sidebar.md ':include')
 
-[Index](About.md ':include')
+[About](about.md ':include')
 
