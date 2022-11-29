@@ -1,3 +1,3 @@
 - Test generate the folder with this issue auto commit
 - 被替换为下划线了 (lll￢ω￢)  `POST_TITLE=$(sed -E 's/[[:space:]|[:punct:]]/_/g' <<<'${{ inputs.title }}')`
-- x
+- xx
