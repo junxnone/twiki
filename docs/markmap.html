@@ -45,7 +45,7 @@
             if (url.searchParams.has("str")) {
                 text = url.searchParams.get("str");//the param str shouldn't be too long
             } else {
-                md = url.searchParams.get("md");
+                let md = url.searchParams.get("md");
                 if(md.endsWith(".md")){
                     console.log("render markdown:"+md)
                 }
