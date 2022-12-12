@@ -47,11 +47,11 @@
             } else {
                 md = url.searchParams.get("md");
                 if(md.endsWith(".md")){
-                    console.log("markdown file")
+                    console.log("render markdown:"+md)
                 }
                 else{
-                    console.log("not markdown file")
                     md = md + ".md";
+                    console.log("render markdown:"+md)
                 }
                 const reqUrl = md
                     ? new URL(md)
