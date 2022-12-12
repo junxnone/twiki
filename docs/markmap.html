@@ -40,7 +40,7 @@
         };
         function AppendLink(url) {
             var div = document.getElementById("divMain");
-            var linkTmp = document.createElement("wp");
+            const linkTmp = document.createElement("a");
             linkTmp.href = url;
             console.log("add link:"+url)
             linkTmp.innerText = "Wiki Page"; 
