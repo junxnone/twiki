@@ -41,8 +41,10 @@
         function AppendLink(url) {
             var div = document.getElementById("divMain");
             const linkTmp = document.createElement("a");
-            linkTmp.href = url;
-            console.log("add link:"+url)
+            let index = url.lastIndexOf("/");
+            let newUrl = url.substring(0, index) + "/#/" + url.substring(index+1, url.length)
+            linkTmp.href = newUrl;
+            console.log("add link:"+newUrl)
             linkTmp.innerText = "Wiki Page"; 
             div.appendChild(linkTmp);                                           
         }
