@@ -46,6 +46,12 @@
                 text = url.searchParams.get("str");//the param str shouldn't be too long
             } else {
                 const md = url.searchParams.get("md");
+                if(md.endsWith(".md")){
+                    console.log("markdown file")
+                }
+                else{
+                    console.log("not markdown file")
+                }
                 const reqUrl = md
                     ? new URL(md)
                     : new URL("README.md", document.location);
@@ -60,14 +66,6 @@
                     );
                     url.searchParams.set("md", reqUrl.origin + mdFolder);
                     mdLinkPrefix = url.toString();
-                    if(mdLinkPrefix.endsWith(".md")){
-                        console.log("markdown file")
-                    }
-                    else{
-                        console.log("not markdown file")
-                    }
-                    console.log(mdLinkPrefix)
-                    console.log(text)
                 }
             }
             renderMap(text, mdLinkPrefix);
