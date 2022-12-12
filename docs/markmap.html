@@ -60,6 +60,12 @@
                     );
                     url.searchParams.set("md", reqUrl.origin + mdFolder);
                     mdLinkPrefix = url.toString();
+                    if(mdLinkPrefix.endsWith(".md")){
+                        console.log("markdown file")
+                    }
+                    else{
+                        console.log("not markdown file")
+                    }
                 }
             }
             renderMap(text, mdLinkPrefix);
