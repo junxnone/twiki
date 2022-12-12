@@ -19,6 +19,7 @@
 </head>
 
 <body>
+     <div id="divMain"></div>
     <div class="markmap" id="MarkMap"></div>
     <!-- follow the instruction from https://github.com/gera2ld/markmap/tree/master/packages/markmap-autoloader#markmap-autoloader -->
     <script>
@@ -60,6 +61,7 @@
                     md = md + ".md";
                     console.log("render markdown:"+md)
                 }
+                AppendLink(md)
                 const reqUrl = md
                     ? new URL(md)
                     : new URL("README.md", document.location);
@@ -80,8 +82,6 @@
         }
         main().catch((e) => console.error(e));
     </script>
- <div id="divMain"></div>
- <input type="button" value="添加链接" onclick="AppendLink()" />
 </body>
 
 </html>
