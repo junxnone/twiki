@@ -2,7 +2,7 @@
 Title | NAV
 -- | --
 Created @ | `2022-11-01T09:10:10Z`
-Last Modify @| `2022-12-13T06:31:25Z`
+Last Modify @| `2022-12-13T06:34:29Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/21)
 
@@ -13,3 +13,19 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/21)
 - [CSC](https://junxnone.github.io/csc/#/)
 - [Leet Code](https://junxnone.github.io/leetcode/#/)
 - [Examples](https://junxnone.github.io/examples/)
+- [History](https://junxnone.github.io/wht/)
+  - [Covid-19 History](https://junxnone.github.io/wht/covid19/)
+  - [食品安全事件](https://junxnone.github.io/wht/food/)
+  - [Mars Discovery](http://junxnone.github.io/wht/mars)
+  - [Transformer History](https://junxnone.github.io/wht/tech/transformer/)
+  - [Attention History](https://junxnone.github.io/wht/tech/attention/)
+  - [NAS History](https://junxnone.github.io/wht/tech/nas/)
+  - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
+  - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
+  - [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop)
+  - [Transformer History](https://junxnone.github.io/wht/tech/transformer/)
+  - [Attention History](https://junxnone.github.io/wht/tech/attention/)
+  - [NAS History](https://junxnone.github.io/wht/tech/nas/)
+  - [OCR History](https://junxnone.github.io/wht/tech/ocr/)
+  - [AI Game History](https://junxnone.github.io/wht/tech/aigame/)
+  - [Linux Desktop History](https://junxnone.github.io/wht/tech/linuxdesktop)
