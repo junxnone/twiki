@@ -1,9 +1,10 @@
 ---
 Title | Include Content
 -- | --
-Create Date | `2021-11-07T06:47:14Z`
-Update Date | `2022-02-11T06:41:54Z`
-Edit link | [here](https://github.com/junxnone/twiki/issues/13)
+Created @ | `2021-11-07T06:47:14Z`
+Last Modify @| `2022-12-13T14:10:48Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
 ## wikilink
@@ -56,9 +57,14 @@ https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw
 
 ## Include pdf file
 
+- **plugin** [docsify-pdf-embed](https://github.com/lazypanda10117/docsify-pdf-embed)
+
 [gist: include pdf file](https://gist.githubusercontent.com/junxnone/2efa4f014527293cd2950b8aff96f488/raw/docsify_include_pdf_file ':include :type=code')
 
 
 ```pdf
 flann_docs.pdf
 ```
+
+[junxnone website](https://codepen.io/syt123450/embed/YRwZGg?default-tab=html%2Cresult ':include :type=iframe width=100% height=1200px')
+
