@@ -4,6 +4,7 @@
   - [Latex Math Formula](/Latex_Math_Formula)
   - [Include Content](/Include_Content)
   - [Mermaid Support](/Mermaid_Support)
+  - [MindMap](/mindmap)
 - [About](/about)
 - [Todo](/todo)
 - [Update Logs](/update_log)
@@ -19,3 +20,5 @@
   - [Term 6](/t6)
 - [Test](/Test)
   - [test the comment length valid error](/test_the_comment_length_valid_error)
+
+[![](https://img.shields.io/badge/%2B-Edit%20Sidebar-brightgreen)](https://github.com/junxnone/twiki/issues/2)
