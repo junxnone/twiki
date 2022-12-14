@@ -151,5 +151,15 @@
         );
       }
     );
+    window.$docsify.plugins.push(
+      function (hook, vm) {
+        hook.beforeEach(
+          function (mdstr) {
+            const createIssueUrl="https://github.com/" + window.$docsify.repo + "/issues/new";
+            return `[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](${createIssueUrl})\n\n`;
+          }
+        );
+      }
+    );
   </script>
 </html>
