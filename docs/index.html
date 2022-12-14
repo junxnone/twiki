@@ -146,20 +146,13 @@
             const prefix = document.location.pathname.endsWith('/') ? '' : '..';
             const markmapUrl = new URL(prefix + 'markmap.html', document.location);
             const markdownUrl = new URL(prefix + vm.route.file, document.location);
-            return `[🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n\n` + mdstr;
-          }
-        );
-      }
-    );
-    window.$docsify.plugins.push(
-      function (hook, vm) {
-        hook.beforeEach(
-          function (mdstr) {
             const createIssueUrl="https://github.com/" + window.$docsify.repo + "/issues/new";
-            return `[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](${createIssueUrl})\n\n`;
+            
+            return `[![](https://img.shields.io/badge/%2B-Create%20New%20Item-brightgreen)](${createIssueUrl})  [🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n\n` + mdstr;
           }
         );
       }
     );
+
   </script>
 </html>
