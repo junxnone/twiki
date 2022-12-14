@@ -24,6 +24,7 @@
     repo: 'junxnone/twiki',
     loadSidebar: '_sidebar.md',
     loadNavbar: '../NAV.md',
+    mergeNavbar: true,
     auto2top: true,
     copyCode: {
       buttonText : '复制',
@@ -148,7 +149,7 @@
             const markdownUrl = new URL(prefix + vm.route.file, document.location);
             const createIssueUrl="https://github.com/" + window.$docsify.repo + "/issues/new";
             
-            return `[🆕 NewPage](${createIssueUrl}) | [🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n --|--\n\n` + mdstr;
+            return `[🆕 NewPage](${createIssueUrl}) | [🔑 MarkMap](${markmapUrl}?md=${markdownUrl})\n --|--\n` + mdstr;
           }
         );
       }
