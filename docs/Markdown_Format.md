@@ -1,11 +1,20 @@
 ---
 Title | Markdown Format
 -- | --
-Create Date | `2021-11-21T09:19:32Z`
-Update Date | `2021-12-17T05:35:17Z`
-Edit link | [here](https://github.com/junxnone/twiki/issues/17)
+Created @ | `2021-11-21T09:19:32Z`
+Last Modify @| `2022-12-15T09:52:18Z`
+Labels | ``
+Edit @| [here](https://github.com/junxnone/twiki/issues/17)
 
 ---
+
+## Github markdown format
+
+- 支持大部分 Github markdown format
+- 参考 [here](https://junxnone.github.io/techwiki/#/Markdown)
+
+
+
 ## 引用文献(not supported by docsify??)
 
 提到的文献 [^papers_1]  
