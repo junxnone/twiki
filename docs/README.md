@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Last Modify @ | `2022-12-14T13:51:59Z`
+Last Modify @ | `2022-12-15T02:41:24Z`
 Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -11,9 +11,9 @@ Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 This is a [Template] Wiki.
 
 - 使用 Github Issue 创建维护词条 
-- 使用 Github action 自动转换 Issue commit 到 docs markdown 文档
-- docsify 渲染 markdown 到页面
-- 部署在 Github Page
+- 使用 Github action 自动转换 Issue 为 markdown, 并 push 到 repo/docs 下
+- 使用 docsify 渲染 markdown 为 Wiki
+- 使用 Github Page 部署
 
 [Index](_sidebar.md ':include')
 
