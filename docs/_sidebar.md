@@ -5,7 +5,7 @@
   - [Include Content](/Include_Content)
   - [Mermaid Support](/Mermaid_Support)
   - [MindMap](/mindmap)
-  - [AutoSidebar](/Features_AutoSidebar)
+  - [AutoSidebar](/Features_AutoSidebar "自动整理 SideBar")
 - [Guide](/Guide)
 - [About](/about)
 - [Todo](/todo)
