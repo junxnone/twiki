@@ -2,7 +2,7 @@
 Title | todo
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-12-12T08:26:23Z`
+Last Modify @| `2022-12-16T08:30:52Z`
 Labels | `documentation, enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
@@ -11,6 +11,8 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ## TODO
 
+- [ ] 生成 `按修改日期` 排序页面
+- [ ] 生成 `按创建日期` 排序页面
 - [ ] 自动生成索引 ? 手动更定制化
 - [ ] 文档存储位置 ? 分散存储更改标题时会更改位置
 - [ ] 易用性问题, [`use this template` --> `最小修改`]
