@@ -2,7 +2,7 @@
 Title | todo
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-12-16T08:30:52Z`
+Last Modify @| `2022-12-16T14:33:21Z`
 Labels | `documentation, enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
@@ -11,6 +11,7 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ## TODO
 
+- [ ]  知识图谱 [[3d-force-graph](https://github.com/vasturiano/3d-force-graph)]
 - [ ] 生成 `按修改日期` 排序页面
 - [ ] 生成 `按创建日期` 排序页面
 - [ ] 自动生成索引 ? 手动更定制化
