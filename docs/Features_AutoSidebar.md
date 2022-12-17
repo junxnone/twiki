@@ -2,7 +2,7 @@
 Title | Features AutoSidebar
 -- | --
 Created @ | `2022-12-16T04:15:25Z`
-Last Modify @| `2022-12-16T15:32:44Z`
+Last Modify @| `2022-12-17T08:49:41Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/24)
 
@@ -10,6 +10,24 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/24)
 # 自动生成 Sidebar
 
 ## Brief
+
+- 自动生成 `markdown` 格式的 sidebar
+- 方案
+  - [ ] 方案 一
+    - 根据 `_` 分级处理
+    - 优点
+      - 不需要更改 `issue2md` 内容
+      - 文件在同一目录下方便管理
+    - 缺点:
+      - 分级逻辑实现难度高
+  - [ ] 方案 二
+    - `markdown` 文件放在不同目录，方便遍历索引
+    - 优点
+      - 索引逻辑简单, 遍历文件夹
+    - 缺点
+      - 管理文件时, 需要遍历所有子文件夹, 不容易查找位置
+
+## 方案一
 
 - **Issue Name 作为分级管理的依据**
   - Issue Name 转换为文件名时会替换符号为下划线 `_`，根据下划线来分级最好
@@ -29,6 +47,13 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/24)
   - 首字母排序？
   - 自定义排序？
 
-## json & KG
+## 中间文件格式
 
+- json 
+  - 可以用于 `KG`
+- csv
+
+## Tools
+
+- pandas
 - bigtree
