@@ -2,11 +2,14 @@
 Title | Features IncludeContent
 -- | --
 Created @ | `2021-11-07T06:47:14Z`
-Last Modify @| `2022-12-19T10:06:27Z`
+Last Modify @| `2022-12-19T14:36:24Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
 ---
+
+# Include Content
+
 ## wikilink
 
 [[todo]]
@@ -14,12 +17,12 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 ## Include doc
 
 ```
-[update](update_log.md ':include')
+[update](TODO.md ':include')
 ```
 
 --- Included docs start ---
 
-[update](update_log.md ':include')
+[update](TODO.md ':include')
 
 --- Included docs end ---
 
@@ -27,11 +30,11 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
 
 ```
-[update](update_log.md ':include :type=code')
+[update](TODO.md ':include :type=code')
 ```
 
 
-[update](update_log.md ':include :type=code')
+[update](TODO.md ':include :type=code')
 
 ## Include gist
 
