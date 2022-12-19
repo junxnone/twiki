@@ -1,4 +1,6 @@
 - [Features](/Features)
+  - [MindMap](/Features_MindMap)
+  - [Latex](/Features_Latex)
   - [AutoSidebar](/Features_AutoSidebar)
 - [about](/about)
 - Include
