@@ -2,7 +2,7 @@
 Title | Features AutoSidebar
 -- | --
 Created @ | `2022-12-16T04:15:25Z`
-Last Modify @| `2022-12-19T10:41:46Z`
+Last Modify @| `2022-12-19T14:55:20Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/24)
 
@@ -14,8 +14,12 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/24)
 - 格式以空格为间隔分割 `Label` 
   - Issue Name: `L1 L2 L3 ...`
   - Markdown File: `L1_L2_L3_(...).md`
+- 以第一个 `# ` 后面的内容作为 **Title**
+  -  如果没有, 则以 最后一个 `Ln` 作为 **Title**
 
-生成 sidebar格式
+
+## 生成的 sidebar格式
+
 ```
 - L1
   - L2
