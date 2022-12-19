@@ -5,6 +5,9 @@
   - [IncludeContent](/Features_IncludeContent)
   - [Latex](/Features_Latex)
   - [AutoSidebar](/Features_AutoSidebar)
+- [Guide](/Guide)
+- [TODO](/TODO)
+- [About](/About)
 - [about](/about)
 - Include
   - [Content](/Include_Content)
@@ -12,7 +15,6 @@
   - [Support](/Mermaid_Support)
 - Markdown
   - [Format](/Markdown_Format)
-- [Guide](/Guide)
 - [mindmap](/mindmap)
 - Latex
   - Math
@@ -20,7 +22,5 @@
 - update
   - [log](/update_log)
 - [todo](/todo)
-- [About](/About)
 - Supported
   - [Features](/Supported_Features)
-- [TODO](/TODO)
