@@ -20,6 +20,7 @@
 - update
   - [log](/update_log)
 - [todo](/todo)
+- [About](/About)
 - Supported
   - [Features](/Supported_Features)
 - [TODO](/TODO)
