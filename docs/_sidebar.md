@@ -1,5 +1,5 @@
 - [Features](/Features)
-  - [Mermaid 图标支持](/Features_Mermaid)
+  - [Mermaid 图表支持](/Features_Mermaid)
   - [Markdown](/Features_Markdown)
   - [MindMap](/Features_MindMap)
   - [IncludeContent](/Features_IncludeContent)
