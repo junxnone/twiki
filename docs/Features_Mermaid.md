@@ -2,13 +2,12 @@
 Title | Features Mermaid
 -- | --
 Created @ | `2022-05-02T12:51:31Z`
-Last Modify @| `2022-12-19T14:26:55Z`
+Last Modify @| `2022-12-19T14:32:02Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/20)
 
 ---
-
-# Mermaid 图标支持
+# Mermaid 图表支持
 
 - [mermaid-docsify](https://github.com/Leward/mermaid-docsify)
 - [Mermaid js](https://mermaid-js.github.io/mermaid/#/)
