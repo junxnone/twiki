@@ -2,7 +2,7 @@
   - [Mermaid 图表支持](/Features_Mermaid)
   - [Markdown](/Features_Markdown)
   - [MindMap](/Features_MindMap)
-  - [IncludeContent](/Features_IncludeContent)
+  - [Include Content](/Features_IncludeContent)
   - [Latex](/Features_Latex)
   - [自动生成 Sidebar](/Features_AutoSidebar)
 - [Guide](/Guide)
