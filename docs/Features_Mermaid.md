@@ -2,7 +2,7 @@
 Title | Features Mermaid
 -- | --
 Created @ | `2022-05-02T12:51:31Z`
-Last Modify @| `2022-12-19T14:32:02Z`
+Last Modify @| `2022-12-19T15:14:05Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/20)
 
@@ -22,7 +22,7 @@ gantt
     section History
     Init Repo           :done, 2021-08-30, 1w
     Feature Develop     :active, 2021-08-30, 2022-05-02
-    Update Wikis        :active, 2021-08-30, 2022-05-02
+    Update Wikis        :active, 2021-08-30, 2022-12-02
     section Dev Features
     github issue2md action :milestone, 2021-08-31, 1w
     add edit link       :milestone, 2021-09-19, 1w
@@ -31,6 +31,8 @@ gantt
     Support Latex       :milestone, 2021-11-21, 1w
     Support PDF         :milestone, 2022-02-11, 1w
     Support Mermaid     :milestone, 2022-05-02, 1w
+    Support apachecn style     :milestone, 2022-12-01, 1w
+    Support AutoSiderbar   :milestone, 2022-12-12, 1w
 ```
 
 ```mermaid
@@ -40,7 +42,7 @@ gantt
     section History
     Init Repo           :done, 2021-08-30, 1w
     Feature Develop     :active, 2021-08-30, 2022-05-02
-    Update Wikis        :active, 2021-08-30, 2022-05-02
+    Update Wikis        :active, 2021-08-30, 2022-12-02
     section Dev Features
     github issue2md action :milestone, 2021-08-31, 1w
     add edit link       :milestone, 2021-09-19, 1w
@@ -49,4 +51,7 @@ gantt
     Support Latex       :milestone, 2021-11-21, 1w
     Support PDF         :milestone, 2022-02-11, 1w
     Support Mermaid     :milestone, 2022-05-02, 1w
+    Support apachecn style     :milestone, 2022-12-01, 1w
+    Support AutoSiderbar   :milestone, 2022-12-12, 1w
+
 ```
