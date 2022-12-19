@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Last Modify @ | `2022-12-15T02:41:24Z`
+Last Modify @ | `2022-12-19T15:07:13Z`
 Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -19,5 +19,5 @@ This is a [Template] Wiki.
 
 [markmap show](https://junxnone.github.io/twiki/markmap.html?md=https://junxnone.github.io/twiki/_sidebar.md ':include :type=iframe width=100% height=200px')
 
-[About](about.md ':include')
+[About](About.md ':include')
 
