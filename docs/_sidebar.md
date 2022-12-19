@@ -1,4 +1,6 @@
 - [Features](/Features)
+  - [Mermaid](/Features_Mermaid)
+  - [Markdown](/Features_Markdown)
   - [MindMap](/Features_MindMap)
   - [Latex](/Features_Latex)
   - [AutoSidebar](/Features_AutoSidebar)
