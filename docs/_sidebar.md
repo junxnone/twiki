@@ -8,5 +8,3 @@
 - [Guide](/Guide)
 - [TODO](/TODO)
 - [About](/About)
-- Mermaid
-  - [Support](/Mermaid_Support)
