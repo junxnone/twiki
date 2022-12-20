@@ -33,6 +33,7 @@ jobs:
         run: |
           git log
           git pull
+          git log
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
