@@ -1,0 +1,18 @@
+name: Build and Publish Docker Image
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/sidebar.md'
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: junxnone/autosidebar@main
+        with:
+          push_branch: "main"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          actor: ${{ github.actor }}
+          docs_path: "docs"
