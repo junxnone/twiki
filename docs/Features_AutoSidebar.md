@@ -2,8 +2,8 @@
 Title | Features AutoSidebar
 -- | --
 Created @ | `2022-12-16T04:15:25Z`
-Last Modify @| `2022-12-19T14:55:20Z`
-Labels | ``
+Last Modify @| `2022-12-20T05:23:16Z`
+Labels | `enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/24)
 
 ---
