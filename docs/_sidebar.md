@@ -4,6 +4,7 @@
   - [MindMap](/Features_MindMap)
   - [Include Content](/Features_IncludeContent)
   - [Latex](/Features_Latex)
+  - [History Timeline wiki](/Features_Timeline)
   - [自动生成 Sidebar](/Features_AutoSidebar)
 - [Guide](/Guide)
   - [WriteWiki](/Guide_WriteWiki)
