@@ -6,5 +6,6 @@
   - [Latex](/Features_Latex)
   - [自动生成 Sidebar](/Features_AutoSidebar)
 - [Guide](/Guide)
+  - [AutoSidebar](/Guide_AutoSidebar)
 - [TODO](/TODO)
 - [About](/About)
