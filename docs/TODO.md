@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-12-20T03:43:28Z`
+Last Modify @| `2022-12-20T03:44:59Z`
 Labels | `documentation, enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
@@ -18,7 +18,9 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
   - [x] 生成索引
   - [x] 使用 md title
   - [ ] 优化 action 速度 - docker env
-  - [ ] action 只在新创建 issues 时执行
+  - [ ] action 条件执行
+    - [ ] 只在特定文件更改时执行(定制一个trigger file/issue) 
+    - [ ] 只在新创建 issues 时执行 
 - [x] ~文档存储位置 ? 分散存储更改标题时会更改位置~
 - [ ] 易用性问题, [`use this template` --> `最小修改`]
 - [x] mindmap
