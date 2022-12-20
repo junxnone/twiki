@@ -1,4 +1,4 @@
-name: generate template wiki
+name: sync issues to markdown
 on:
   issues:
     types: [opened, edited, labeled]
