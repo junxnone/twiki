@@ -1,14 +1,14 @@
 ---
 Title | README
 -- | --
-Last Modify @ | `2022-12-19T15:07:13Z`
+Last Modify @ | `2022-12-20T08:17:47Z`
 Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
 `Le vent se lève, ‌‍‍‌‍​‌‌‍​‍‌‌‌‌​‌‌‍‍‍​‌‍‍‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‍‍‌‌‌​‌‌‍‍‍​‌‌‌‍‍​‌‍‍‍‍​‌‍‍‌‍​‌‌‍​‌‌‌‌‍​‌‌‍‌​‍‌‌‌‌​‍‍‍‍‍​‍‍‍​‍‌​‌​‌‌‌​‌‌‌‌​‌‌‍il faut tenter de vivre.`
 
 
-This is a [Template] Wiki.
+This is a [Template] Wiki.  <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
 
 - 使用 Github Issue 创建维护词条 
 - 使用 Github action 自动转换 Issue 为 markdown, 并 push 到 repo/docs 下
