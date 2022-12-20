@@ -1,8 +1,7 @@
 name: Update Sidebar
 on:
-  push:
-    paths:
-      - 'docs/sidebar.md'
+  issues:
+    types: [opened]
 
 jobs:
   run:
