@@ -1,10 +1,10 @@
 ---
 Title | Features Timeline
 -- | --
-Created @ | `2022-12-20T07:07:08Z`
-Last Modify @| `2022-12-20T07:07:08Z`
+Created @ | `2022-12-20T07:17:13Z`
+Last Modify @| `2022-12-20T07:17:13Z`
 Labels | ``
-Edit @| [here](https://github.com/junxnone/twiki/issues/31)
+Edit @| [here](https://github.com/junxnone/twiki/issues/32)
 
 ---
 # History Timeline wiki
