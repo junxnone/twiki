@@ -23,7 +23,7 @@ jobs:
           number: ${{ github.event.issue.number }}
           actor: ${{ github.actor }}
           nohead: ${{ contains(github.event.issue.labels.*.name, 'nohead') }}
-update_sidebar:
+  update_sidebar:
     needs: issue2md
     if: github.event.action == 'opened'
     runs-on: ubuntu-latest
