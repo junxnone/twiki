@@ -28,6 +28,10 @@ jobs:
     if: github.event.action == 'opened'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
+      - name: print github log
+        run: |
+          git log
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
