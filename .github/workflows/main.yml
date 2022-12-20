@@ -32,6 +32,7 @@ jobs:
       - name: print github log
         run: |
           git log
+          git pull
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
