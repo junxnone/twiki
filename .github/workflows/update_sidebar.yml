@@ -1,9 +1,9 @@
 name: Update Sidebar
 on:
   push:
-    branches:
-      - main
-
+    paths:
+      - 'docs/sidebar.md'
+    
 jobs:
   run:
     runs-on: ubuntu-latest
