@@ -1,35 +1,14 @@
-- 0014
-  - [About](/0014_About)
-- 0020
-  - Features
-    - [Mermaid 图表支持](/0020_Features_Mermaid)
-- 0022
-  - Features
-    - [MindMap](/0022_Features_MindMap)
-- 0004
-  - [TODO](/0004_TODO)
-- 0023
-  - [Guide](/0023_Guide)
-- 0024
-  - Features
-    - [自动生成 Sidebar](/0024_Features_AutoSidebar)
-- 0027
-  - Guide
-    - [WriteWiki](/0027_Guide_WriteWiki)
-- 0034
-  - Features
-    - [Timeline](/0034_Features_Timeline)
-- 0018
-  - Features
-    - [Latex](/0018_Features_Latex)
-- 0026
-  - Guide
-    - [AutoSidebar](/0026_Guide_AutoSidebar)
-- 0017
-  - Features
-    - [Markdown](/0017_Features_Markdown)
-- 0013
-  - Features
-    - [Include Content](/0013_Features_IncludeContent)
-- 0016
-  - [Features](/0016_Features)
+- [Features](/0016_Features)
+  - [Mermaid 图表支持](/0020_Features_Mermaid)
+  - [MindMap](/0022_Features_MindMap)
+  - [自动生成 Sidebar](/0024_Features_AutoSidebar)
+  - [Timeline](/0034_Features_Timeline)
+  - [Latex](/0018_Features_Latex)
+  - [Markdown](/0017_Features_Markdown)
+  - [Include Content](/0013_Features_IncludeContent)
+- [Guide](/0023_Guide)
+  - [WriteWiki](/0027_Guide_WriteWiki)
+  - [AutoSidebar](/0026_Guide_AutoSidebar)
+- [TODO](/0004_TODO)
+- [About](/0014_About)
+- [Wiki History](/hist)
