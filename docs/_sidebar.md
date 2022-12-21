@@ -11,5 +11,4 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
-- [sidebar](/0025_sidebar)
 - [Wiki History](/hist)
