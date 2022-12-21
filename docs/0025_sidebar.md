@@ -1,4 +1,0 @@
-Features  
-Guide  
-TODO  
-About
