@@ -2,7 +2,7 @@
 Title | Features IncludeContent
 -- | --
 Created @ | `2021-11-07T06:47:14Z`
-Last Modify @| `2022-12-21T07:43:43Z`
+Last Modify @| `2022-12-21T07:52:07Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
@@ -11,7 +11,7 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
 ## wikilink
 
-[[todo]]
+[[hist]]
 
 ## Include doc
 
