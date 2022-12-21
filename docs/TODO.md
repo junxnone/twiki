@@ -2,7 +2,7 @@
 Title | TODO
 -- | --
 Created @ | `2021-09-19T11:31:00Z`
-Last Modify @| `2022-12-20T03:44:59Z`
+Last Modify @| `2022-12-21T02:21:40Z`
 Labels | `documentation, enhancement`
 Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
@@ -11,6 +11,9 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/4)
 
 ## TODO
 
+- [ ] 文件管理[Issue<-> markdown 文件] 
+  - [ ] issue number 对应 markdown, 更改名字时不新增 md 文件
+  - [ ] 删除 issue 时，可以删除或者移动到 archive folder
 - [ ]  知识图谱 [[3d-force-graph](https://github.com/vasturiano/3d-force-graph)]
 - [ ] 生成 `按修改日期` 排序页面
 - [ ] 生成 `按创建日期` 排序页面
