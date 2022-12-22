@@ -11,4 +11,6 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
+- OPT
+  - [性能优化库](/0035_OPT_LIB)
 - [Wiki History](/hist)
