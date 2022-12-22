@@ -2,7 +2,7 @@
 Title | Guide
 -- | --
 Created @ | `2022-12-15T02:44:35Z`
-Last Modify @| `2022-12-22T01:41:13Z`
+Last Modify @| `2022-12-22T01:44:39Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/23)
 
@@ -16,11 +16,16 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/23)
 - 2 User Config In index.html
 
 ```
-    name: 'Template Wiki',
-    repo: 'junxnone/twiki',
+  <title>yourWikiName</title>
+```
+
+```
+    name: 'yourWikiName',
+    repo: 'yourGithubAccount/yourRepo',
     loadSidebar: '_sidebar.md',
     loadNavbar: '../NAV.md',
 ```
+
 
 - 3 Deploy with Github page
 
