@@ -40,7 +40,7 @@
         };
         function AppendLink(url) {
             var div = document.getElementById("divMain");
-            const linkTmp = document.createElement("H1");
+            const linkTmp = document.createElement("H2");
             let index = url.lastIndexOf("/");
             let newUrl = url.substring(0, index) + "/#/" + url.substring(index+1, url.length)
             linkTmp.href = newUrl;
