@@ -4,6 +4,7 @@
   - [自动生成 Sidebar](/0024_Features_AutoSidebar)
   - [Timeline](/0034_Features_Timeline)
   - [Latex](/0018_Features_Latex)
+  - [知识图谱](/0035_Features_KG)
   - [Markdown](/0017_Features_Markdown)
   - [Include Content](/0013_Features_IncludeContent)
 - [Guide](/0023_Guide)
@@ -11,6 +12,4 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
-- OPT
-  - [性能优化库](/0035_OPT_LIB)
 - [Wiki History](/hist)
