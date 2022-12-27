@@ -12,3 +12,7 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
+- [Wiki History](/hist)
+
+---
+<kbd>2022.12.27<sub>Junx</sub></kbd>
