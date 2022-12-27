@@ -2,7 +2,7 @@
 Title | Features IncludeContent
 -- | --
 Created @ | `2021-11-07T06:47:14Z`
-Last Modify @| `2022-12-21T07:52:07Z`
+Last Modify @| `2022-12-27T09:43:13Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
@@ -54,7 +54,7 @@ https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw
 [junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
 ```
 
-[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
+[junxnone website](https://junxnone.github.io ':include :type=iframe width=50% height=1200px')
 
 
 ## Include pdf file
