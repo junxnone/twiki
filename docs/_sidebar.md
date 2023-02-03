@@ -7,12 +7,12 @@
   - [Timeline](/0034_Features_Timeline)
   - [自动生成 Sidebar](/0024_Features_AutoSidebar)
   - [知识图谱](/0035_Features_KG)
-- [Guide](/0023_Guide)
-  - [WriteWiki](/0027_Guide_WriteWiki)
-  - [AutoSidebar](/0026_Guide_AutoSidebar)
-- [TODO](/0004_TODO)
 - [About](/0014_About)
+- [Guide](/0023_Guide)
+  - [AutoSidebar](/0026_Guide_AutoSidebar)
+  - [WriteWiki](/0027_Guide_WriteWiki)
+- [TODO](/0004_TODO)
 - [Wiki History](/hist)
 
 ---
-<kbd>2023.02.02<sub>Junx16</sub></kbd>
+<kbd>2023.02.03<sub>Junx16</sub></kbd>
