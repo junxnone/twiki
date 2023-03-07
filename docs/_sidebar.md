@@ -1,7 +1,7 @@
 - [Features](/0016_Features)
   - [Markdown](/0017_Features_Markdown)
   - [Include Content](/0013_Features_IncludeContent)
-  - [Latex](/0018_Features_Latex)
+  - [Latex Support](/0018_Features_Latex)
   - [Mermaid 图表支持](/0020_Features_Mermaid)
   - [MindMap](/0022_Features_MindMap)
   - [Timeline](/0034_Features_Timeline)
@@ -15,4 +15,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd>2023.03.07<sub>Junx16</sub></kbd>
+<kbd>2023.03.07<sub>Junx18</sub></kbd>
