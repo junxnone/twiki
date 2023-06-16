@@ -64,12 +64,7 @@
           );
         });
 
-    function updateHighlight() {
-      // trigger update of highlighted objects in scene
-      Graph
-        .linkWidth(Graph.linkWidth())
-        .linkDirectionalParticles(Graph.linkDirectionalParticles());
-    }
+
     
     const bloomPass = new UnrealBloomPass();
     bloomPass.strength = 3;
