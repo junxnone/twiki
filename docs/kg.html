@@ -64,13 +64,14 @@
           );
         });
 
-    const { nodes, links } = Graph.graphData();
-    console.log(nodes)
+
     
     const bloomPass = new UnrealBloomPass();
     bloomPass.strength = 3;
     bloomPass.radius = 1;
     bloomPass.threshold = 0.1;
     Graph.postProcessingComposer().addPass(bloomPass);
+    const { nodes, links } = Graph.graphData();
+    console.log(nodes)
   </script>
 </body>
