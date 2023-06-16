@@ -108,17 +108,19 @@
           .linkDirectionalParticles(Graph.linkDirectionalParticles());
       }
 
-
+        
         setTimeout(() => {
             const { nodes, links }  = Graph.graphData();
             const gData = {
               nodes: [...nodes],
               links: [...links]
             };
+            const nodesById = Object.fromEntries(gData.nodes.map(node => [node.id, node]));
+
             console.log(gData)
             gData.links.forEach(link => {
-            const a = gData.nodes[link.source];
-            const b = gData.nodes[link.target];
+            const a = nodesById[link.source.id];
+            const b = nodesById[link.target.id];
             !a.neighbors && (a.neighbors = []);
             !b.neighbors && (b.neighbors = []);
             a.neighbors.push(b);
