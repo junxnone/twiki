@@ -64,7 +64,8 @@
           );
         });
 
-
+    const { nodes, links } = Graph.graphData();
+    console.log(nodes)
     
     const bloomPass = new UnrealBloomPass();
     bloomPass.strength = 3;
