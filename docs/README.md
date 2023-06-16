@@ -1,7 +1,7 @@
 ---
 Title | README
 -- | --
-Updated @ | `2023-06-15T17:46:28Z`
+Updated @ | `2023-06-16T17:22:44Z`
 Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 
 ---
@@ -10,12 +10,15 @@ Edit @ | [here](https://github.com/junxnone/twiki/issues/5)
 
 This is a [Template] Wiki.  <kbd>[Use this Template](https://github.com/junxnone/twiki/generate)</kbd>
 
-[kg](https://junxnone.github.io/twiki/kg ':include :type=iframe width=100% height=800px')
 
+
+- [Mindmap - Markmap](https://junxnone.github.io/twiki/markmap.html?md=https://junxnone.github.io/twiki/_sidebar.md)
 
 [Index](_sidebar.md ':include')
 
-[markmap show](https://junxnone.github.io/twiki/markmap.html?md=https://junxnone.github.io/twiki/_sidebar.md ':include :type=iframe width=100% height=400px')
+[kg](https://junxnone.github.io/twiki/kg ':include :type=iframe width=100% height=800px')
+
+
 
 [About](0014_About.md ':include')
 
