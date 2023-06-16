@@ -111,8 +111,8 @@
         setTimeout(() => {
             const { gnodes, glinks }  = Graph.graphData();
             const gData = {
-              nodes: gnodes,
-              links: glinks
+              nodes: [...gnodes],
+              links: [...glinks]
             };
             console.log(gData)
             gData.links.forEach(link => {
