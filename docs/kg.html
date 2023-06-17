@@ -137,15 +137,6 @@
           Graph.graphData(gData);
         }, 200);
     
-    let angle = 0;
-    const distance = 1400;
-    setTimeout(() => {
-      Graph.cameraPosition({
-        x: distance * Math.sin(angle),
-        z: distance * Math.cos(angle)
-      });
-      angle += Math.PI / 300;
-    }, 3000);
 
     
     const bloomPass = new UnrealBloomPass();
