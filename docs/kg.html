@@ -67,9 +67,9 @@
             3000  // ms transition duration
           );
         })        
-        .linkWidth(link => highlightLinks.has(link) ? 4 : 1)
-        .linkDirectionalParticles(link => highlightLinks.has(link) ? 4 : 0)
-        .linkDirectionalParticleWidth(4)
+        .linkWidth(link => highlightLinks.has(link) ? 2 : 1)
+        .linkDirectionalParticles(link => highlightLinks.has(link) ? 2 : 0)
+        .linkDirectionalParticleWidth(2)
         .onNodeHover(node => {
           // no state change
           if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
