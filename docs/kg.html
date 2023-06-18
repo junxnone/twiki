@@ -159,9 +159,9 @@
           }
           prev_key = keyword;
           var matchstr = '/' + keyword + '/';
-          //const node = sData.nodes.find((n) => n.id.search(keyword));
-          const nodes = sData.nodes.filter((n) => n.id.match(new RegExp(keyword,'ig')))
-          console.log(nodes)
+          const idsnodes = sData.nodes.filter((n) => n.id.match(new RegExp(keyword,'ig')));
+          const titlesnodes = sData.nodes.filter((n) => n.title.match(new RegExp(keyword,'ig')));
+          const nodes = titlesnodes.concat(idsnodes);
 
           if (nodes.length > 0){
             if(nodes.length > searchi) {
@@ -172,7 +172,6 @@
             }
           } else {
             tempAlert("啥也没找到!", 2000);
-
           }
         }
         function tempAlert(msg,duration)
