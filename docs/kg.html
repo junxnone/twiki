@@ -43,6 +43,10 @@
     let highlightLinks = new Set();
     let hoverNode = null;
     var sData = {};
+  
+    var doubleclick = false;
+    var timer;
+    window.addEventListener("dblclick", event => {doubleclick = true;})
 
     var Graph = ForceGraph3D({
     })
@@ -59,7 +63,22 @@
           sprite.textHeight = 8;
           return sprite;
       })
-      .onNodeClick(node => window.open(node.url))
+      .onNodeClick(node => {
+        clearTimeout(timer);
+        timer = setTimeout(function(){
+            //single click
+            window.open(node.url)
+        }, 500)
+        if(doubleclick) {
+          clearTimeout(timer);
+          doubleclick = false;
+          //double click
+          if (node.childLinks.length) {
+            node.collapsed = !node.collapsed; // toggle collapse state
+            Graph.graphData(getPrunedTree());
+          }
+        }
+      })
       .onNodeDragEnd(node => {
           node.fx = node.x;
           node.fy = node.y;
@@ -144,6 +163,7 @@
             !b.links && (b.links = []);
             a.links.push(link);
             b.links.push(link);
+            nodesById[link.source.id].childLinks.push(link);
           });
           Graph.graphData(sData);
         }, 200);
@@ -174,17 +194,31 @@
             tempAlert("啥也没找到!", 2000);
           }
         }
-        function tempAlert(msg,duration)
-        {
-        var el = document.createElement("div");
-        el.setAttribute("style","position:absolute;top:3px;left:103px;font-size: 16px;color:red;background-color:transparent;");
-        el.innerHTML = msg;
-        setTimeout(function(){
-          el.parentNode.removeChild(el);
-        },duration);
-        document.body.appendChild(el);
+        function tempAlert(msg,duration){
+          var el = document.createElement("div");
+          el.setAttribute("style","position:absolute;top:3px;left:103px;font-size: 16px;color:red;background-color:transparent;");
+          el.innerHTML = msg;
+          setTimeout(function(){
+            el.parentNode.removeChild(el);
+          },duration);
+          document.body.appendChild(el);
         }
+        const getPrunedTree = () => {
+          const visibleNodes = [];
+          const visibleLinks = [];
+          const nodesById = Object.fromEntries(sData.nodes.map(node => [node.id, node]));
 
+          (function traverseTree(node = sData.nodes[0]) {
+            visibleNodes.push(node);
+            if (node.collapsed) return;
+            visibleLinks.push(...node.childLinks);
+            node.childLinks
+              .map(link => ((typeof link.target) === 'object') ? link.target : nodesById[link.target]) // get child node
+              .forEach(traverseTree);
+          })(); // IIFE
+
+          return { nodes: visibleNodes, links: visibleLinks };
+        };
 
         function focusonnode(node){
           // Aim at node from outside it
