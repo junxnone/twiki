@@ -2,7 +2,7 @@
 Title | Features IncludeContent
 -- | --
 Created @ | `2021-11-07T06:47:14Z`
-Last Modify @| `2022-12-27T09:43:13Z`
+Updated @| `2023-06-23T16:38:13Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
@@ -48,14 +48,6 @@ https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw
 
 [gist: hello_openmp](https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb1e0e8879f33/raw/openmp_helloworld.cpp ':include :type=code')
 
-## Include web
-
-```
-[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
-```
-
-[junxnone website](https://junxnone.github.io ':include :type=iframe width=50% height=1200px')
-
 
 ## Include pdf file
 
@@ -70,5 +62,17 @@ flann_docs.pdf
 
 ## include embed iframe
 
-[junxnone website](https://codepen.io/syt123450/embed/YRwZGg?default-tab=html%2Cresult ':include :type=iframe width=100% height=1200px')
+### Include webpage
+
+```
+[junxnone website](https://junxnone.github.io ':include :type=iframe width=100% height=1200px')
+```
+
+[junxnone website](https://junxnone.github.io ':include :type=iframe width=50% height=1200px')
+
+### Include Google Docs
+
+
+[google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYDn4ZEG4oc2kFYlUpdY2N8yNwptVKC7MwwE9IEs2hfZFsOPsI7yeEDoVuabtUuN-HedNe6mP_eXj-/pubhtml?widget=true&amp;headers=false ':include :type=iframe width=100% height=800px')
+
 
