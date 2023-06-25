@@ -7,6 +7,7 @@
   - [Timeline](/0034_Features_Timeline)
   - [自动生成 Sidebar](/0024_Features_AutoSidebar)
   - [知识图谱](/0035_Features_KG)
+  - [Backup the Images](/0036_Features_BackupImages)
 - [Guide](/0023_Guide)
   - [WriteWiki](/0027_Guide_WriteWiki)
   - [AutoSidebar](/0026_Guide_AutoSidebar)
@@ -15,4 +16,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1617390625</sub></kbd>
+<kbd><sub>@2339570625</sub></kbd>
