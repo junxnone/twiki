@@ -2,7 +2,7 @@
 Title | Features
 -- | --
 Created @ | `2021-11-21T09:15:37Z`
-Updated @| `2023-05-07T14:40:04Z`
+Updated @| `2023-07-01T16:45:21Z`
 Labels | `Features, reindex`
 Edit @| [here](https://github.com/junxnone/twiki/issues/16)
 
@@ -16,9 +16,9 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/16)
 - [Count Word](https://github.com/827652549/docsify-count)
 - [Dark Mode](https://github.com/boopathikumar018/docsify-darklight-theme)
 - [Gittalk Comment](https://github.com/gitalk/gitalk)
-- [Markdown Format](/Features_Markdown)
-- [Latex Math Formula](/Features_Latex)
-- [Include Content wiki/code/gist/web/pdf](/Features_IncludeContent)
-- [Mermaid Support](/Features_Mermaid)
+- [Markdown Format](/0017_Features_Markdown)
+- [Latex Math Formula](/0018_Features_Latex)
+- [Include Content wiki/code/gist/web/pdf](/0013_Features_IncludeContent)
+- [Mermaid Support](/0020_Features_Mermaid)
 
 
