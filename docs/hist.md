@@ -2,8 +2,8 @@
 
 - 2023-06-25        [Features BackupImages](/0036_Features_BackupImages)
 - 2022-12-22        [Features KG](/0035_Features_KG)
-- 2022-12-20        [Guide AutoSidebar](/0026_Guide_AutoSidebar)
 - 2022-12-20        [Features Timeline](/0034_Features_Timeline)
+- 2022-12-20        [Guide AutoSidebar](/0026_Guide_AutoSidebar)
 - 2022-12-20        [Guide WriteWiki](/0027_Guide_WriteWiki)
 - 2022-12-16        [Features AutoSidebar](/0024_Features_AutoSidebar)
 - 2022-12-15        [Guide](/0023_Guide)
