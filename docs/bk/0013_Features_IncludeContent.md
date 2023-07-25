@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent                             |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-07T06:47:14Z`                              |
-| Updated @ | `2023-06-23T16:57:14Z`                              |
+| Updated @ | `2023-07-25T15:20:08Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/13) |
 
@@ -69,3 +69,7 @@ website](https://junxnone.github.io ":include :type=iframe width=50% height=1200
 
 [google
 sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYDn4ZEG4oc2kFYlUpdY2N8yNwptVKC7MwwE9IEs2hfZFsOPsI7yeEDoVuabtUuN-HedNe6mP_eXj-/pubhtml?gid=232973174&single=true&widget=true&headers=false ":include :type=iframe width=100% height=800px")
+
+### Include 交互图片
+
+[fg](https://github.com/junxnone/twiki/assets/2216970/a71cc2f9-924c-4b34-89a0-89c6909ff362 ":include :type=iframe width=100% height=600px")
