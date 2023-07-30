@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent                             |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-07T06:47:14Z`                              |
-| Updated @ | `2023-07-30T05:03:38Z`                              |
+| Updated @ | `2023-07-30T05:08:46Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/13) |
 
@@ -76,6 +76,6 @@ sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYDn4ZEG4oc2kFYlUpdY2N8y
 
 ### Test
 
-<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Flabmlai%2Fannotated_deep_learning_paper_implementations%2Fblob%2F753fbd3446ed85b7f0a30c415eafbc28bccaf0e0%2Flabml_nn%2Ftransformers%2Flabel_smoothing_loss.py%23L1-L14&style=github&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
-
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjunxnone%2Ftwiki%2Fblob%2F42f7df84f3383fcea0658d253a8d6b833e7e4a64%2Fdocs%2Findex.html%23L20-L28&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjunxnone%2Ftwiki%2Fblob%2F42f7df84f3383fcea0658d253a8d6b833e7e4a64%2Fdocs%2Findex.html%23L58-L59&style=base16%2Fgithub&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
