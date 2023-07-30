@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent                             |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-07T06:47:14Z`                              |
-| Updated @ | `2023-07-30T05:08:46Z`                              |
+| Updated @ | `2023-07-30T05:12:23Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/13) |
 
@@ -76,6 +76,13 @@ sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYDn4ZEG4oc2kFYlUpdY2N8y
 
 ### Test
 
+  - <https://emgithub.com/>
+  - <https://junxnone.github.io/emgithub/>
+
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjunxnone%2Ftwiki%2Fblob%2F42f7df84f3383fcea0658d253a8d6b833e7e4a64%2Fdocs%2Findex.html%23L20-L28&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjunxnone%2Ftwiki%2Fblob%2F42f7df84f3383fcea0658d253a8d6b833e7e4a64%2Fdocs%2Findex.html%23L58-L59&style=base16%2Fgithub&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+<script src="https://junxnone.github.io/emgithub/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Fjunxnone%2Ftwiki%2Fblob%2Fa0fe3683bcd638acb43d88142acef3e68e4aad23%2Fdocs%2F0013_Features_IncludeContent.md%3Fplain%3D1%23L83-L85&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
+
+![image](media/d80afc99370002d89c314fe9b4f10dd07581fb61.png)
