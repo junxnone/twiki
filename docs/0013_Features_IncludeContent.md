@@ -2,7 +2,7 @@
 Title | Features IncludeContent
 -- | --
 Created @ | `2021-11-07T06:47:14Z`
-Updated @| `2023-07-30T04:33:17Z`
+Updated @| `2023-07-30T04:38:28Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/13)
 
@@ -80,4 +80,4 @@ flann_docs.pdf
 
 ### Test
 
-[test embed code](https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Flabmlai%2Fannotated_deep_learning_paper_implementations%2Fblob%2F753fbd3446ed85b7f0a30c415eafbc28bccaf0e0%2Flabml_nn%2Ftransformers%2Flabel_smoothing_loss.py%23L1-L14&style=a11y-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on ':include :type=iframe width=100% height=800px')
+<script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Flabmlai%2Fannotated_deep_learning_paper_implementations%2Fblob%2F753fbd3446ed85b7f0a30c415eafbc28bccaf0e0%2Flabml_nn%2Ftransformers%2Flabel_smoothing_loss.py%23L1-L14&style=a11y-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
