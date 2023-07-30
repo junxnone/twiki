@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent                             |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-07T06:47:14Z`                              |
-| Updated @ | `2023-07-25T15:20:08Z`                              |
+| Updated @ | `2023-07-30T04:33:17Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/13) |
 
@@ -73,3 +73,8 @@ sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vTYDn4ZEG4oc2kFYlUpdY2N8y
 ### Include 交互图片
 
 [fg](https://github.com/junxnone/twiki/assets/2216970/a71cc2f9-924c-4b34-89a0-89c6909ff362 ":include :type=iframe width=100% height=600px")
+
+### Test
+
+[test embed
+code](https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2Flabmlai%2Fannotated_deep_learning_paper_implementations%2Fblob%2F753fbd3446ed85b7f0a30c415eafbc28bccaf0e0%2Flabml_nn%2Ftransformers%2Flabel_smoothing_loss.py%23L1-L14&style=a11y-dark&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on ":include :type=iframe width=100% height=800px")
