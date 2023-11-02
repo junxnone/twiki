@@ -3,7 +3,7 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2023-03-07T10:34:01Z`                              |
+| Updated @ | `2023-11-02T08:12:33Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
@@ -17,6 +17,12 @@
 
 Details Please Refer
 [here](https://upupming.site/docsify-katex/docs/#/supported)
+
+## 字体大小
+
+    ....
+    \large
+    \huge
 
 -----
 
