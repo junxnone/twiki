@@ -2,7 +2,7 @@
 Title | Features BackupImages
 -- | --
 Created @ | `2023-06-25T15:39:01Z`
-Updated @| `2023-06-25T15:39:01Z`
+Updated @| `2024-05-06T07:24:38Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/36)
 
@@ -11,11 +11,11 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/36)
 - backup the images in markdown to your backup folder
 - pandoc `--extract-media`
 
-![image](https://github.com/junxnone/test_pandoc_action/assets/2216970/f6de9f11-741f-41fc-97c6-b261873db36a)
+![image](media/d5b90c0b23c3601af8ae9e070308093dde326ba2.png)
 
-- the images
+  - the images
 
-![image](https://github.com/junxnone/test_pandoc_action/assets/2216970/0cacc21e-b077-44a0-90f3-9fce7106b1fc)
+![image](media/70dc3b0c180a090106c76e7c71ac1c09182c0ac8.png)
 
 ## Issues
 - 多个工作流之间传递变量
