@@ -2,7 +2,7 @@
 Title | Features
 -- | --
 Created @ | `2021-11-21T09:15:37Z`
-Updated @| `2023-07-01T16:45:21Z`
+Updated @| `2024-05-06T07:55:28Z`
 Labels | `Features, reindex`
 Edit @| [here](https://github.com/junxnone/twiki/issues/16)
 
@@ -21,4 +21,8 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/16)
 - [Include Content wiki/code/gist/web/pdf](/0013_Features_IncludeContent)
 - [Mermaid Support](/0020_Features_Mermaid)
 
+[filename](0017_Features_Markdown.md ':include')
+[filename](0013_Features_IncludeContent.md ':include')
+[filename](0018_Features_Latex.md ':include')
+[filename](0020_Features_Mermaid.md ':include')
 
