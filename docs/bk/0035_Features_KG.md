@@ -3,7 +3,7 @@
 | Title     | Features KG                                         |
 | --------- | --------------------------------------------------- |
 | Created @ | `2022-12-22T08:25:20Z`                              |
-| Updated @ | `2023-06-15T17:44:36Z`                              |
+| Updated @ | `2024-05-06T07:28:03Z`                              |
 | Labels    | \`\`                                                |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/35) |
 
@@ -13,4 +13,4 @@
 
   - <https://junxnone.github.io/twiki/kg>
 
-[kg](https://junxnone.github.io/twiki/kg ":include :type=iframe width=100% height=800px")
+[kg](https://junxnone.github.io/jstools/3dkg/?json=https://junxnone.github.io/twiki/kg.json ":include :type=iframe width=100% height=800px")
