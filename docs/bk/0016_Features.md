@@ -3,7 +3,7 @@
 | Title     | Features                                            |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:15:37Z`                              |
-| Updated @ | `2024-05-06T07:55:28Z`                              |
+| Updated @ | `2024-05-06T07:56:32Z`                              |
 | Labels    | `Features, reindex`                                 |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/16) |
 
@@ -27,7 +27,12 @@
     wiki/code/gist/web/pdf](/0013_Features_IncludeContent)
   - [Mermaid Support](/0020_Features_Mermaid)
 
-[filename](0017_Features_Markdown.md ":include")
-[filename](0013_Features_IncludeContent.md ":include")
-[filename](0018_Features_Latex.md ":include")
-[filename](0020_Features_Mermaid.md ":include")
+[0017\_Features\_Markdown](0017_Features_Markdown.md ":include")
+[0013\_Features\_IncludeContent](0013_Features_IncludeContent.md ":include")
+[0018\_Features\_Latex](0018_Features_Latex.md ":include")
+[0020\_Features\_Mermaid](0020_Features_Mermaid.md ":include")
+[0022\_Features\_MindMap](0022_Features_MindMap.md ":include")
+[0034\_Features\_Timeline](0034_Features_Timeline.md ":include")
+[0024\_Features\_AutoSidebar](0024_Features_AutoSidebar.md ":include")
+[0035\_Features\_KG](0035_Features_KG.md ":include")
+[0036\_Features\_BackupImages](0036_Features_BackupImages.md ":include")
