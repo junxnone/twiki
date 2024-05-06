@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent                             |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-07T06:47:14Z`                              |
-| Updated @ | `2024-05-06T07:38:18Z`                              |
+| Updated @ | `2024-05-06T07:48:19Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/13) |
 
@@ -54,9 +54,6 @@ hello\_openmp](https://gist.githubusercontent.com/junxnone/9af88e64446fb0746ebfb
 ``` pdf
 flann_docs.pdf
 ```
-
-[gist: include pdf
-file](https://gist.githubusercontent.com/junxnone/2efa4f014527293cd2950b8aff96f488/raw/docsify_include_pdf_file ":include :type=code")
 
 ## include embed iframe
 
