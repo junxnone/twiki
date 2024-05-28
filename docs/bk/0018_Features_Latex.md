@@ -3,13 +3,18 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2024-05-28T16:30:26Z`                              |
+| Updated @ | `2024-05-28T16:32:10Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
 -----
 
 # Latex Support
+
+  - [docsify-latex
+    MathJax](https://scruel.github.io/docsify-latex/#/?id=with-mathjax)
+  - [docsify-latex
+    KaTex](https://scruel.github.io/docsify-latex/#/?id=with-katex)
 
 | `$\texttt{accuracy}(y, \hat{y}) = \frac{1}{n_\text{samples}} \sum_{i=0}^{n_\text{samples}-1} 1(\hat{y}_i = y_i)$` | $\\texttt{accuracy}(y, \\hat{y}) = \\frac{1}{n\_\\text{samples}} \\sum\_{i=0}^{n\_\\text{samples}-1} 1(\\hat{y}\_i = y\_i)$ |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
