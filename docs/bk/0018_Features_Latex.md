@@ -3,7 +3,7 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2024-05-29T00:31:43Z`                              |
+| Updated @ | `2024-05-29T00:39:23Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
@@ -18,7 +18,8 @@
 
 | `$\texttt{accuracy}(y, \hat{y}) = \frac{1}{n_\text{samples}} \sum_{i=0}^{n_\text{samples}-1} 1(\hat{y}_i = y_i)$` | $\\texttt{accuracy}(y, \\hat{y}) = \\frac{1}{n\_\\text{samples}} \\sum\_{i=0}^{n\_\\text{samples}-1} 1(\\hat{y}\_i = y\_i)$ |
 | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 特殊符号 % <br> `$\\%$`                                                                                               | $\\%$                                                                                                                       |
+| % Github Markdown<br> `$\\%$`                                                                                     | $\\%$                                                                                                                       |
+| % docsify <br> `$\%$`                                                                                             | $%$                                                                                                                         |
 
 Details Please Refer
 [here](https://junxnone.github.io/docsify-katex/docs/#/supported)
