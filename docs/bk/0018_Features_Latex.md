@@ -3,7 +3,7 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2024-05-28T16:32:10Z`                              |
+| Updated @ | `2024-05-29T00:31:43Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
@@ -28,7 +28,7 @@ Details Please Refer
 | label          | show                          |
 | -------------- | ----------------------------- |
 | \\tiny         | $\\tiny tiny$                 |
-| \\scriptsize   | $\\scriptsizescriptsize$      |
+| \\scriptsize   | $\\scriptsize scriptsize$     |
 | \\footnotesize | $\\footnotesize footnotesize$ |
 | \\small        | $\\small small$               |
 | \\normalsize   | $\\normalsize normalsize$     |
