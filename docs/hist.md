@@ -1,5 +1,6 @@
 # Wiki History
 
+- 2024-06-01&nbsp;&nbsp; [Code embed](/0037_Features_IncludeContent_Code)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent :bookmark:Code
 - 2023-06-25&nbsp;&nbsp; [Backup the Images](/0036_Features_BackupImages)&nbsp;&nbsp; :bookmark:Features :bookmark:BackupImages
 - 2022-12-22&nbsp;&nbsp; [知识图谱](/0035_Features_KG)&nbsp;&nbsp; :bookmark:Features :bookmark:KG
 - 2022-12-20&nbsp;&nbsp; [WriteWiki](/0027_Guide_WriteWiki)&nbsp;&nbsp; :bookmark:Guide :bookmark:WriteWiki

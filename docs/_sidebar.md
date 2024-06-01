@@ -1,6 +1,7 @@
 - [Features](/0016_Features)
   - [Markdown](/0017_Features_Markdown)
   - [Include Content](/0013_Features_IncludeContent)
+    - [Code embed](/0037_Features_IncludeContent_Code)
   - [Latex Support](/0018_Features_Latex)
   - [Mermaid 图表支持](/0020_Features_Mermaid)
   - [MindMap](/0022_Features_MindMap)
@@ -16,4 +17,4 @@
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1617400601</sub></kbd>
+<kbd><sub>@2311480601</sub></kbd>
