@@ -3,11 +3,13 @@
 | Title     | Features                                            |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:15:37Z`                              |
-| Updated @ | `2024-06-12T06:39:20Z`                              |
+| Updated @ | `2024-06-12T06:43:36Z`                              |
 | Labels    | `Features, reindex`                                 |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/16) |
 
 -----
+
+# twiki Features
 
 ## [Issue to markdown](https://github.com/junxnone/wiki_issue2md)
 
@@ -126,7 +128,7 @@ Hello， 这里是折叠世界
     `#f03c15` 红
   - ![\#c5f015](media/653f77950c95ae72f746fe4d544fc92046681132.png)
     `#c5f015` 黄
-  - ![\#1589F0](media/f268f7519b3b5402917f025ddc383b79848f7e34.shtml)
+  - ![\#1589F0](media/982028297e53a2ffbc4ad43be906a591e3e13103.png)
     `#1589F0` 蓝
   - ![\#1589F0](media/5b84959f9ab0d2756bfffc79c365ef39f592b32b.png)
 
