@@ -2,7 +2,7 @@
 Title | Features IncludeContent markmap
 -- | --
 Created @ | `2025-01-16T08:39:17Z`
-Updated @| `2025-01-17T03:05:44Z`
+Updated @| `2025-01-23T08:04:44Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/38)
 
@@ -10,49 +10,82 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/38)
 # Markmap
 - [插件 docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js)
 - 使用 `markmap` 关键字注释 `code block`
-
+- **Options** : https://markmap.js.org/api/interfaces/markmap-view.IMarkmapJSONOptions.html
+  - [使用方法 - Markdown Frontmatter](https://markmap.js.org/docs/json-options#markdown-frontmatter)
 
 ```markmap
-- [ML/DL](https://junxnone.github.io/aiwiki/#/)
-  - Tools
-    - Scikit-Learn
-    - Pytorch
-    - Tensorflow
-    - OpenVINO
-  - Tasks
-    - Classification
-    - Detection
-    - Segmentation
-    - Retrivel
-    - OCR
-    - Anomaly Detection
+---
+title: skills
+markmap:
+  initialExpandLevel: 3
+---
+
+# Skills
+
+## [AI](https://junxnone.github.io/aiwiki/#/)
+- ML Tasks(Training/Finetune/Evaluate/Deploy)
+  - Classification
+  - Detection
+  - Segmentation
+  - Image Retrivel
+  - OCR
+  - Anomaly Detection
+- Data Prepare
+  - Filter
+  - Annotation
+  - Augmentation
+- OpenVINO/ONNX
+  - Model Convert
+  - Inference Deploy
+- Research(Finetune/Testing/Deploy)
   - Active Learning
   - AutoML
   - HPO
-  - Data Augmentation
-- Linux
-  - Ubuntu
-  - Yocto
-  - CentOS
-  - Shell
-  - Docker
-  - KVM
-- Python
-  - OpenCV
-  - Numpy
-  - Pandas
-- C/C++
-- Performance Optimation
-  - OneAPI
+  - LLMs
+    - Chat
+    - RAG
+    - Image Generate
+  - RL
+
+## [Performance Optimization](https://junxnone.github.io/opt/#/)
+- Parallel Programming
+  - SIMD/AVX
+  - OneAPI/sycl
+    - MKL
+    - IPP
   - OpenMP
-  - Memory
-- CMake
-- Hardware
-- 3D
+  - Data Tile
+- Compiler Optimization
+  - ICX
+- Debug Tools
+  - Vtune
+- Loop Optimation
+- Memory Optimization
+
+## 3D
   - PCL
     - Filter
-    - PPF
-    - ICP
+    - Registration
+      - PPF
+      - ICP
+      - ...
     - Measurement
     - Visualization
+
+## [Linux_](https://junxnone.github.io/linux/#/)
+- Drivers
+- Tools
+- Shell Script
+
+## [Others_](https://junxnone.github.io/xwiki/#/)
+- OpenCV
+- Python
+- C/C++
+- Docker
+- KVM
+- Drivers
+  - Android Camera
+  - Linux Audio
+- RTOS
+- Hardware
 ```
