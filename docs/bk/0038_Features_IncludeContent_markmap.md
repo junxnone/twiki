@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent markmap                     |
 | --------- | --------------------------------------------------- |
 | Created @ | `2025-01-16T08:39:17Z`                              |
-| Updated @ | `2025-01-23T08:07:24Z`                              |
+| Updated @ | `2025-01-23T08:57:55Z`                              |
 | Labels    | \`\`                                                |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/38) |
 
@@ -13,12 +13,36 @@
 
   - [插件 docsify-markmap.js](https://github.com/rcqed/docsify-markmap.js)
   - 使用 `markmap` 关键字注释 `code block`
-  - **Options** :
+  - **支持Options** :
     <https://markmap.js.org/api/interfaces/markmap-view.IMarkmapJSONOptions.html>
       - [使用方法 - Markdown
         Frontmatter](https://markmap.js.org/docs/json-options#markdown-frontmatter)
 
 <!-- end list -->
+
+``` markmap
+---
+title: markmap Options
+markmap:
+  initialExpandLevel: 3
+---
+
+- color: string[]
+- colorFreezeLevel: number
+- extraCss: string[]
+- extraJs: string[]
+- fitRatio: number
+- initialExpandLevel: number
+- maxInitialScale: number
+- maxWidth: number
+- paddingX: number
+- pan: boolean
+- spacingHorizontal: number
+- spacingVertical: number
+- zoom: boolean
+
+
+```
 
 ``` markmap
 
