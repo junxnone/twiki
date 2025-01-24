@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent markmap                     |
 | --------- | --------------------------------------------------- |
 | Created @ | `2025-01-16T08:39:17Z`                              |
-| Updated @ | `2025-01-23T08:57:55Z`                              |
+| Updated @ | `2025-01-24T01:04:18Z`                              |
 | Labels    | \`\`                                                |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/38) |
 
@@ -26,6 +26,8 @@ title: markmap Options
 markmap:
   initialExpandLevel: 3
 ---
+
+# Markmap Options
 
 - color: string[]
 - colorFreezeLevel: number
