@@ -2,7 +2,7 @@
 Title | Features MindMap
 -- | --
 Created @ | `2022-12-12T06:19:44Z`
-Last Modify @| `2022-12-21T07:16:40Z`
+Updated @| `2025-01-24T01:35:25Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/22)
 
@@ -27,6 +27,6 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/22)
 - https://github.com/zhzuoch/zhzuoch.github.io/blob/01538bac6ee1fdbc0145b873893f78f4822c8112/docs/index.html#L66-L79
 - https://github.com/zhzuoch/zhzuoch.github.io/blob/main/docs/markmap.html
 
-[markmap show](https://junxnone.github.io/twiki/markmap.html?md=https://junxnone.github.io/twiki/_sidebar.md ':include :type=iframe width=100% height=200px')
+[markmap show](https://junxnone.github.io/twiki/markmap.html?md=https://junxnone.github.io/twiki/_sidebar.md ':include :type=iframe width=100% height=500px')
 
 
