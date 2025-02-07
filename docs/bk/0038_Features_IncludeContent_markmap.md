@@ -3,7 +3,7 @@
 | Title     | Features IncludeContent markmap                     |
 | --------- | --------------------------------------------------- |
 | Created @ | `2025-01-16T08:39:17Z`                              |
-| Updated @ | `2025-01-24T01:04:18Z`                              |
+| Updated @ | `2025-02-07T07:53:13Z`                              |
 | Labels    | \`\`                                                |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/38) |
 
@@ -19,6 +19,17 @@
         Frontmatter](https://markmap.js.org/docs/json-options#markdown-frontmatter)
 
 <!-- end list -->
+
+``` 
+---
+title: Your Title
+markmap:
+  initialExpandLevel: 3
+---
+
+......
+
+```
 
 ``` markmap
 ---
@@ -45,6 +56,8 @@ markmap:
 
 
 ```
+
+-----
 
 ``` markmap
 

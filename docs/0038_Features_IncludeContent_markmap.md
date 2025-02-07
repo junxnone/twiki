@@ -2,7 +2,7 @@
 Title | Features IncludeContent markmap
 -- | --
 Created @ | `2025-01-16T08:39:17Z`
-Updated @| `2025-01-24T01:04:18Z`
+Updated @| `2025-02-07T07:53:13Z`
 Labels | ``
 Edit @| [here](https://github.com/junxnone/twiki/issues/38)
 
@@ -12,6 +12,19 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/38)
 - 使用 `markmap` 关键字注释 `code block`
 - **支持Options** : https://markmap.js.org/api/interfaces/markmap-view.IMarkmapJSONOptions.html
   - [使用方法 - Markdown Frontmatter](https://markmap.js.org/docs/json-options#markdown-frontmatter)
+
+
+```
+---
+title: Your Title
+markmap:
+  initialExpandLevel: 3
+---
+
+......
+
+```
+
 
 
 ```markmap
@@ -40,6 +53,7 @@ markmap:
 
 ```
 
+------
 
 ```markmap
 
