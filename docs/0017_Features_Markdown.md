@@ -2,7 +2,7 @@
 Title | Features Markdown
 -- | --
 Created @ | `2021-11-21T09:19:32Z`
-Updated @| `2025-04-14T03:35:39Z`
+Updated @| `2025-04-16T07:49:38Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/17)
 
@@ -13,9 +13,11 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/17)
 - 支持大部分 Github markdown format
 - 参考 [here](https://junxnone.github.io/techwiki/#/Markdown)
 
+
+## docsify 支持的标记
 ---
 
-- `!>` 标记的内容
+- `!>` 标记重要内容
 
 ```
 !> xxx
@@ -24,7 +26,7 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/17)
 !> `!>` 标记的内容
 
 
-- `?>` 标记的内容
+- `?>` 标记普通内容
 
 ```
 ?> xxx
@@ -33,7 +35,7 @@ Edit @| [here](https://github.com/junxnone/twiki/issues/17)
 ?> `?>` 标记的内容
 
 
-## 特殊标记
+## 特殊标记(Github 支持)
 
 ```
 > [!NOTE]
