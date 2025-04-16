@@ -3,7 +3,7 @@
 | Title     | Features Markdown                                   |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:32Z`                              |
-| Updated @ | `2025-04-16T07:49:38Z`                              |
+| Updated @ | `2025-04-16T09:12:42Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/17) |
 
@@ -36,20 +36,20 @@
 
 ## 特殊标记(Github 支持)
 
-    > [!NOTE]
-    > Useful information that users should know, even when skimming content.
+    |> [!NOTE]
+    |> Useful information that users should know, even when skimming content.
     
-    > [!TIP]
-    > Helpful advice for doing things better or more easily.
+    |> [!TIP]
+    |> Helpful advice for doing things better or more easily.
     
-    > [!IMPORTANT]
-    > Key information users need to know to achieve their goal.
+    |> [!IMPORTANT]
+    |> Key information users need to know to achieve their goal.
     
-    > [!WARNING]
-    > Urgent info that needs immediate user attention to avoid problems.
+    |> [!WARNING]
+    |> Urgent info that needs immediate user attention to avoid problems.
     
-    > [!CAUTION]
-    > Advises about risks or negative outcomes of certain actions.
+    |> [!CAUTION]
+    |> Advises about risks or negative outcomes of certain actions.
 
 > \[\!NOTE\] Useful information that users should know, even when
 > skimming content.
