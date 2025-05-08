@@ -3,7 +3,7 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2025-05-08T11:51:40Z`                              |
+| Updated @ | `2025-05-08T12:48:10Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
@@ -70,7 +70,13 @@ $X_{NG}^{* }=\\{x_{NG}^{* i} \in \mathbb{R}^{H_x \times W_x \times 3} | i = 1,2,
 ### 一个句子中多个公式
 
   - 某些渲染问题，一个句子中多个公式会导致都不渲染
-  - 可以使用 `$` + `\`` /`$\` 来声明公式
+  - 可以使用如下符号声明公式
+      - <kbd>$\`</kbd> 开始
+      - <kbd>\`$</kbd> 结束
+
+<!-- end list -->
+
+    之后，从 $\hat{\epsilon}_{tri }(\cdot)$ 不同层提取的深度特征通过按元素相加的方式注入到 $`\epsilon_{\theta}(\cdot)`$ 的去噪解码器的相应层中
 
 之后，从 $\\hat{\\epsilon}\_{tri }(\\cdot)$ 不同层提取的深度特征通过按元素相加的方式注入到
 $`\epsilon_{\theta}(\cdot)`$ 的去噪解码器的相应层中
