@@ -2,7 +2,7 @@
 Title | Features Latex
 -- | --
 Created @ | `2021-11-21T09:19:42Z`
-Updated @| `2025-05-08T08:45:29Z`
+Updated @| `2025-05-08T08:50:03Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/18)
 
@@ -46,7 +46,19 @@ label | show
 $X_{NG}^{* }=\\{x_{NG}^{* i} \in \mathbb{R}^{H_x \times W_x \times 3} | i = 1,2, \ldots, N_{NG}^{* }\\}$ 
 ```
 
+### `{}` 支持异常
 
+- $\\{\\}$ 大括号在 github 中需要如下表示
+
+```
+$\\{\\}$
+```
+
+- 但是 `docsify` 中则只需要按标准格式即可 $$\{\}$$
+
+```
+$\{\}$
+```
 
 ## Latex Editor
 
