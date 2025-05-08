@@ -2,7 +2,7 @@
 Title | Features Latex
 -- | --
 Created @ | `2021-11-21T09:19:42Z`
-Updated @| `2025-05-08T08:54:30Z`
+Updated @| `2025-05-08T11:51:40Z`
 Labels | `Features`
 Edit @| [here](https://github.com/junxnone/twiki/issues/18)
 
@@ -59,6 +59,12 @@ $\\{\\}$
 ```
 $\{\}$
 ```
+
+### 一个句子中多个公式
+- 某些渲染问题，一个句子中多个公式会导致都不渲染
+- 可以使用 `$` + `\`` /`$` 来声明公式
+
+之后，从 $\hat{\epsilon}_{tri }(\cdot)$ 不同层提取的深度特征通过按元素相加的方式注入到 $`\epsilon_{\theta}(\cdot)`$ 的去噪解码器的相应层中
 
 ## Latex Editor
 
