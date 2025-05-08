@@ -3,7 +3,7 @@
 | Title     | Features Latex                                      |
 | --------- | --------------------------------------------------- |
 | Created @ | `2021-11-21T09:19:42Z`                              |
-| Updated @ | `2024-05-29T00:39:23Z`                              |
+| Updated @ | `2025-05-08T08:45:29Z`                              |
 | Labels    | `Features`                                          |
 | Edit @    | [here](https://github.com/junxnone/twiki/issues/18) |
 
@@ -39,12 +39,26 @@ Details Please Refer
 | \\huge         | $\\huge huge$                 |
 | \\Huge         | $\\Huge Huge$                 |
 
------
+## Note
+
+### `*` 支持异常
+
+  - $X\_{NG}^{\* }=\\{x\_{NG}^{\* i} \\in \\mathbb{R}^{H\_x \\times W\_x
+    \\times 3} | i = 1,2, \\ldots, N\_{NG}^{\* }\\}$
+  - 如下，需要在 `*` 后面添加空格
+
+<!-- end list -->
+
+``` 
+$X_{NG}^{* }=\\{x_{NG}^{* i} \in \mathbb{R}^{H_x \times W_x \times 3} | i = 1,2, \ldots, N_{NG}^{* }\\}$ 
+```
+
+## Latex Editor
 
 [online latex
 editor](https://junxnone.github.io/m/ ":include :type=iframe width=100% height=600px")
 
------
+## Katex Support
 
 [katex
 Support](https://junxnone.github.io/docsify-katex/docs/#/supported ":include :type=iframe width=100% height=1200px")
