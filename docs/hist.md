@@ -11,8 +11,8 @@
 - 2022-12-15&nbsp;&nbsp; [Guide](/0023_Guide)&nbsp;&nbsp; :bookmark:Guide
 - 2022-12-12&nbsp;&nbsp; [MindMap](/0022_Features_MindMap)&nbsp;&nbsp; :bookmark:Features :bookmark:MindMap
 - 2022-05-02&nbsp;&nbsp; [Mermaid 图表支持](/0020_Features_Mermaid)&nbsp;&nbsp; :bookmark:Features :bookmark:Mermaid
-- 2021-11-21&nbsp;&nbsp; [Latex Support](/0018_Features_Latex)&nbsp;&nbsp; :bookmark:Features :bookmark:Latex
 - 2021-11-21&nbsp;&nbsp; [Markdown](/0017_Features_Markdown)&nbsp;&nbsp; :bookmark:Features :bookmark:Markdown
+- 2021-11-21&nbsp;&nbsp; [Latex Support](/0018_Features_Latex)&nbsp;&nbsp; :bookmark:Features :bookmark:Latex
 - 2021-11-21&nbsp;&nbsp; [twiki Features](/0016_Features)&nbsp;&nbsp; :bookmark:Features
 - 2021-11-07&nbsp;&nbsp; [Include Content](/0013_Features_IncludeContent)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent
 - 2021-09-19&nbsp;&nbsp; [TODO](/0004_TODO)&nbsp;&nbsp; :bookmark:TODO
