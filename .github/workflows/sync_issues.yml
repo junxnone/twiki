@@ -5,6 +5,9 @@ on:
 jobs:
   issue2md:
     runs-on: ubuntu-latest
+    concurrency:
+      group: sync-issues-issue2md-${{ github.repository }}
+      cancel-in-progress: false
     outputs:
       commit_hash: ${{ steps.backup-last-commit.outputs.commit_hash }}
     steps:
@@ -32,6 +35,9 @@ jobs:
   update_sidebar:
     needs: issue2md
     runs-on: ubuntu-latest
+    concurrency:
+      group: sync-issues-update-sidebar-${{ github.repository }}
+      cancel-in-progress: true
     steps:
       - uses: junxnone/autosidebar@main
         with:
