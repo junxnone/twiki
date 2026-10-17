@@ -15,11 +15,8 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
-- debounce
-  - test
-    - [1792232794](/0041_debounce_test_1792232794)
 - [tw1](/0039_tw1)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@1826491017</sub></kbd>
+<kbd><sub>@1831501017</sub></kbd>
