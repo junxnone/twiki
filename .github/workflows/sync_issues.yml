@@ -39,6 +39,8 @@ jobs:
       group: sync-issues-update-sidebar-${{ github.repository }}
       cancel-in-progress: true
     steps:
+      - name: debounce (let newer triggers cancel this run)
+        run: sleep 30
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
