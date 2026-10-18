@@ -37,11 +37,11 @@ jobs:
     needs: issue2md
     runs-on: ubuntu-latest
     concurrency:
+      # never interrupt a sidebar push; extra triggers collapse into the single
+      # pending slot, so only the newest one runs after the current finishes
       group: sync-issues-update-sidebar-${{ github.repository }}
-      cancel-in-progress: true
+      cancel-in-progress: false
     steps:
-      - name: debounce (let newer triggers cancel this run)
-        run: sleep 30
       - uses: junxnone/autosidebar@main
         with:
           push_branch: "main"
