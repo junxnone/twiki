@@ -18,8 +18,9 @@
 - turnstyle
   - test
     - [A](/0042_turnstyle_test_A)
+    - [B](/0043_turnstyle_test_B)
 - [tw1](/0039_tw1)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0826101018</sub></kbd>
+<kbd><sub>@0827181018</sub></kbd>
