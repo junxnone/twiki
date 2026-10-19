@@ -16,7 +16,8 @@
 - [TODO](/0004_TODO)
 - [About](/0014_About)
 - [tw1](/0039_tw1)
+- [tw2](/0040_tw2)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0918411019</sub></kbd>
+<kbd><sub>@0926121019</sub></kbd>
