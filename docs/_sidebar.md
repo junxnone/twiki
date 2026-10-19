@@ -15,13 +15,8 @@
   - [AutoSidebar](/0026_Guide_AutoSidebar)
 - [TODO](/0004_TODO)
 - [About](/0014_About)
-- turnstyle
-  - test
-    - [A](/0042_turnstyle_test_A)
-    - [B](/0043_turnstyle_test_B)
-    - [C](/0044_turnstyle_test_C)
 - [tw1](/0039_tw1)
 - [Wiki History](/hist)
 
 ---
-<kbd><sub>@0911161019</sub></kbd>
+<kbd><sub>@0918411019</sub></kbd>
