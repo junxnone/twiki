@@ -1,0 +1,54 @@
+/* TOC toggle: a single "TOC" button; when collapsed only the button is shown */
+#toc-toggle {
+  position: fixed;
+  top: 86px;
+  right: calc(3% + 20px);
+  z-index: 1000000;
+  padding: 1px 10px;
+  font-size: 12px;
+  line-height: 20px;
+  color: var(--theme-color, #007BE8);
+  background: var(--base-background-color, #fff);
+  border: 1px solid var(--theme-color, #007BE8);
+  border-radius: 4px;
+  cursor: pointer;
+  opacity: 0.85;
+}
+
+#toc-toggle:hover {
+  opacity: 1;
+}
+
+/* expanded: filled button */
+body:not(.toc-collapsed) #toc-toggle {
+  color: var(--base-background-color, #fff);
+  background: var(--theme-color, #007BE8);
+}
+
+/* leave room for the button above the list */
+aside.toc-nav {
+  top: 120px !important;
+  max-height: calc(100% - 140px) !important;
+}
+
+/* collapsed: hide the list and give the width back to the content */
+body.toc-collapsed aside.toc-nav {
+  display: none !important;
+}
+
+body.toc-collapsed section.content {
+  padding-right: 0 !important;
+}
+
+/* narrow screens: the plugin shrinks the list to a 45px strip; when the user
+   expands it, show the full list instead of the hover strip */
+@media only screen and (max-width: 1299px) {
+  body:not(.toc-collapsed) aside.toc-nav {
+    max-width: 250px !important;
+    opacity: 1 !important;
+    right: 3% !important;
+    margin-right: 20px !important;
+    background: var(--base-background-color, #fff) !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  }
+}
