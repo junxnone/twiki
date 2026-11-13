@@ -1,0 +1,55 @@
+/* toggle button after a GitHub permalink */
+.gh-code-btn {
+  margin-left: 4px;
+  padding: 0 4px;
+  font: bold 11px/16px monospace;
+  color: #434343;
+  background: transparent;
+  border: 1px solid #434343;
+  border-radius: 3px;
+  vertical-align: middle;
+  cursor: pointer;
+}
+
+.gh-code-btn.open {
+  color: #fff;
+  background: #434343;
+}
+
+/* the expanded code block */
+.gh-code {
+  margin: 8px 0;
+  border: 1px solid var(--border-color, #ddd);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.gh-code-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px 8px;
+  font-size: 12px;
+  color: #666;
+  background: rgba(0, 0, 0, 0.04);
+  border-bottom: 1px solid var(--border-color, #ddd);
+}
+
+.gh-code-copy {
+  font-size: 12px;
+  background: transparent;
+  border: 0;
+  color: var(--theme-color, #007BE8);
+  cursor: pointer;
+}
+
+.markdown-section .gh-code pre {
+  margin: 0;
+  max-height: 480px;
+  overflow: auto;
+}
+
+.gh-code-error pre {
+  color: #c00;
+  white-space: pre-wrap;
+}
