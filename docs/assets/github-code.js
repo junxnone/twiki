@@ -1,4 +1,4 @@
-// Adds a small toggle button after every GitHub permalink on the page
+// Adds a small "▸ 代码" toggle button after every GitHub permalink on the page
 // (https://github.com/<owner>/<repo>/blob/<40-char sha>/<path>[#L10[-L20]]).
 // The code is fetched from raw.githubusercontent.com on the first click and
 // shown below the link as a highlighted code block; clicking again collapses it.
@@ -93,7 +93,7 @@
     var btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'gh-code-btn';
-    btn.textContent = '</>';
+    btn.textContent = '▸ 代码';
     btn.title = '展开代码';
     var box = null;
     btn.addEventListener('click', function (ev) {
@@ -105,6 +105,7 @@
         box.hidden = !box.hidden;
       }
       btn.classList.toggle('open', !box.hidden);
+      btn.textContent = box.hidden ? '▸ 代码' : '▾ 收起';
       btn.title = box.hidden ? '展开代码' : '收起代码';
     });
     a.insertAdjacentElement('afterend', btn);
