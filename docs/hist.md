@@ -1,5 +1,9 @@
 # Wiki History
 
+<!-- tabs:start -->
+
+#### **Created**
+
 - 2026-10-16&nbsp;&nbsp; [tw2](/0040_tw2)&nbsp;&nbsp; :bookmark:tw2
 - 2026-10-16&nbsp;&nbsp; [tw1](/0039_tw1)&nbsp;&nbsp; :bookmark:tw1
 - 2025-01-16&nbsp;&nbsp; [Markmap](/0038_Features_IncludeContent_markmap)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent :bookmark:markmap
@@ -18,3 +22,26 @@
 - 2021-11-21&nbsp;&nbsp; [twiki Features](/0016_Features)&nbsp;&nbsp; :bookmark:Features
 - 2021-11-07&nbsp;&nbsp; [Include Content](/0013_Features_IncludeContent)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent
 - 2021-09-19&nbsp;&nbsp; [TODO](/0004_TODO)&nbsp;&nbsp; :bookmark:TODO
+
+#### **Updated**
+
+- 2026-11-13&nbsp;&nbsp; [Code embed](/0037_Features_IncludeContent_Code)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent :bookmark:Code
+- 2026-10-19&nbsp;&nbsp; [tw2](/0040_tw2)&nbsp;&nbsp; :bookmark:tw2
+- 2026-10-19&nbsp;&nbsp; [tw1](/0039_tw1)&nbsp;&nbsp; :bookmark:tw1
+- 2025-05-08&nbsp;&nbsp; [Latex Support](/0018_Features_Latex)&nbsp;&nbsp; :bookmark:Features :bookmark:Latex
+- 2025-04-16&nbsp;&nbsp; [Markdown](/0017_Features_Markdown)&nbsp;&nbsp; :bookmark:Features :bookmark:Markdown
+- 2025-02-07&nbsp;&nbsp; [Markmap](/0038_Features_IncludeContent_markmap)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent :bookmark:markmap
+- 2025-01-24&nbsp;&nbsp; [MindMap](/0022_Features_MindMap)&nbsp;&nbsp; :bookmark:Features :bookmark:MindMap
+- 2024-06-12&nbsp;&nbsp; [twiki Features](/0016_Features)&nbsp;&nbsp; :bookmark:Features
+- 2024-05-06&nbsp;&nbsp; [Backup the Images](/0036_Features_BackupImages)&nbsp;&nbsp; :bookmark:Features :bookmark:BackupImages
+- 2024-05-06&nbsp;&nbsp; [知识图谱](/0035_Features_KG)&nbsp;&nbsp; :bookmark:Features :bookmark:KG
+- 2024-05-06&nbsp;&nbsp; [Include Content](/0013_Features_IncludeContent)&nbsp;&nbsp; :bookmark:Features :bookmark:IncludeContent
+- 2023-07-02&nbsp;&nbsp; [TODO](/0004_TODO)&nbsp;&nbsp; :bookmark:TODO
+- 2023-03-17&nbsp;&nbsp; [Guide](/0023_Guide)&nbsp;&nbsp; :bookmark:Guide
+- 2022-12-20&nbsp;&nbsp; [Timeline](/0034_Features_Timeline)&nbsp;&nbsp; :bookmark:Features :bookmark:Timeline
+- 2022-12-20&nbsp;&nbsp; [WriteWiki](/0027_Guide_WriteWiki)&nbsp;&nbsp; :bookmark:Guide :bookmark:WriteWiki
+- 2022-12-20&nbsp;&nbsp; [AutoSidebar](/0026_Guide_AutoSidebar)&nbsp;&nbsp; :bookmark:Guide :bookmark:AutoSidebar
+- 2022-12-16&nbsp;&nbsp; [自动生成 Sidebar](/0024_Features_AutoSidebar)&nbsp;&nbsp; :bookmark:Features :bookmark:AutoSidebar
+- 2022-05-02&nbsp;&nbsp; [Mermaid 图表支持](/0020_Features_Mermaid)&nbsp;&nbsp; :bookmark:Features :bookmark:Mermaid
+
+<!-- tabs:end -->
